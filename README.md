@@ -35,7 +35,7 @@ Jev の課金では、文（state）は質問の数に関係なく 1 回分し�
 uv sync
 
 # 1. 材料を置く（どちらも CC BY-SA 4.0）
-export PLAYGROUND_MODELS="$PWD/downloads"
+export PLAYGROUND_MODELS="$HOME/.cache/jev-spellcheck"   # 材料の置き場（リポジトリの外）
 mkdir -p "$PLAYGROUND_MODELS/datasets"
 curl -L -o "$PLAYGROUND_MODELS/datasets/wikibooks-cookbook.mini.json" \
   https://huggingface.co/datasets/gossminn/wikibooks-cookbook/resolve/main/recipes_parsed.mini.json
