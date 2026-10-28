@@ -1,0 +1,50 @@
+q8885	Slice the leeks and soften them in butter over low heat.	[1]Slice [2]the [3]leeks [4]and [5]soften [6]them [7]in [8]butter [9]over [10]low [11]heat
+q7995	Spread the avocado oveer the toaast and add a poached egg.	[1]Spread [2]the [3]avocado [4]oveer [5]the [6]toaast [7]and [8]add [9]a [10]poached [11]egg
+q4125	Shred the cabbage as finely as possible.	[1]Shred [2]the [3]cabbage [4]as [5]finely [6]as [7]possible
+q2541	Sprinkle the currents over the dough before rolting it up.	[1]Sprinkle [2]the [3]currents [4]over [5]the [6]dough [7]before [8]rolting [9]it [10]up
+q6786	Top the porridge with sliced banana and honey.	[1]Top [2]the [3]porridge [4]with [5]sliced [6]banana [7]and [8]honey
+q6118	Warm the tortillas in a dry pan for a few seconds.	[1]Warm [2]the [3]tortillas [4]in [5]a [6]dry [7]pan [8]for [9]a [10]few [11]seconds
+q2668	Rest the meat for five minuets before slicing.	[1]Rest [2]the [3]meat [4]for [5]five [6]minuets [7]before [8]slicing
+q5788	Let the risotto rest for two minutes before serving.	[1]Let [2]the [3]risotto [4]rest [5]for [6]two [7]minutes [8]before [9]serving
+q5456	Arrrnge the berries on top of the tart.	[1]Arrrnge [2]the [3]berries [4]on [5]top [6]of [7]the [8]tart
+q1156	Stir the risotto constantly, adding the stck a ladle at a time.	[1]Stir [2]the [3]risotto [4]constantly [5]adding [6]the [7]stck [8]a [9]ladle [10]at [11]a [12]time
+q5670	Cook the pasta until al dente, then drain well.	[1]Cook [2]the [3]pasta [4]until [5]al [6]dente [7]then [8]drain [9]well
+q8826	Cover the bowl with a damp towel and let the dough rise for one hour.	[1]Cover [2]the [3]bowl [4]with [5]a [6]damp [7]towel [8]and [9]let [10]the [11]dough [12]rise [13]for [14]one [15]hour
+q9577	Fry the paste in a little oil until fragrant.	[1]Fry [2]the [3]paste [4]in [5]a [6]little [7]oil [8]until [9]fragrant
+q8076	Cut the chilli in hauf and scrape out the seeds.	[1]Cut [2]the [3]chilli [4]in [5]hauf [6]and [7]scrape [8]out [9]the [10]seeds
+q8860	Squeeze the lime over the chicken just before serving.	[1]Squeeze [2]the [3]lime [4]over [5]the [6]chicken [7]just [8]before [9]serving
+q6588	Squeeze the excess water from the spianch.	[1]Squeeze [2]the [3]excess [4]water [5]from [6]the [7]spianch
+q5281	Spoon the mousse into glaeses and chill until set.	[1]Spoon [2]the [3]mousse [4]into [5]glaeses [6]and [7]chill [8]until [9]set
+q8619	Combine the minced beef, breadcrumbs and egg in a bowl.	[1]Combine [2]the [3]minced [4]beef [5]breadcrumbs [6]and [7]egg [8]in [9]a [10]bowl
+q2220	Whisk the cream until sofft peaks form.	[1]Whisk [2]the [3]cream [4]until [5]sofft [6]peaks [7]form
+q8995	Fill the pastry case with baking beans and bake blind.	[1]Fill [2]the [3]pastry [4]case [5]with [6]baking [7]beans [8]and [9]bake [10]blind
+q2211	Preheat the oven to 180°C and line a baking tray with parchment paper.	[1]Preheat [2]the [3]oven [4]to [5]C [6]and [7]line [8]a [9]baking [10]tray [11]with [12]parchment [13]paper
+q8651	Add the prawns and cook until tney tuurn pink.	[1]Add [2]the [3]prawns [4]and [5]cook [6]until [7]tney [8]tuurn [9]pink
+q5138	Melt the chocolate in a bowl set over simmering water.	[1]Melt [2]the [3]chocolate [4]in [5]a [6]bowl [7]set [8]over [9]simmering [10]water
+q8361	Add the soy sauce and a pnich of sugar.	[1]Add [2]the [3]soy [4]sauce [5]and [6]a [7]pnich [8]of [9]sugar
+q3190	Scrub the mussels and discard any that are open.	[1]Scrub [2]the [3]mussels [4]and [5]discard [6]any [7]that [8]are [9]open
+q9220	Drizzle the salad with olive oil and lemon juice.	[1]Drizzle [2]the [3]salad [4]with [5]olive [6]oil [7]and [8]lemon [9]juice
+q2926	Strain the gravy thrtugh a fine sieve.	[1]Strain [2]the [3]gravy [4]thrtugh [5]a [6]fine [7]sieve
+q3559	Roast the lamb for one hour, basting occasionally.	[1]Roast [2]the [3]lamb [4]for [5]one [6]hour [7]basting [8]occasionally
+q8214	Stir in the flower and summer for 10 minutes.	[1]Stir [2]in [3]the [4]flower [5]and [6]summer [7]for [8]minutes
+q4323	Grill the fish skin-side down until crisp.	[1]Grill [2]the [3]fish [4]skin-side [5]down [6]until [7]crisp
+q5583	Dies the carrots and celery into even pieces.	[1]Dies [2]the [3]carrots [4]and [5]celery [6]into [7]even [8]pieces
+q3353	Leave the bread to cool on a wire rack.	[1]Leave [2]the [3]bread [4]to [5]cool [6]on [7]a [8]wire [9]rack
+q3402	Melt a knob of butter in a frying pen.	[1]Melt [2]a [3]knob [4]of [5]butter [6]in [7]a [8]frying [9]pen
+q3398	Toss the psta with the sauce and serve immediately.	[1]Toss [2]the [3]psta [4]with [5]the [6]sauce [7]and [8]serve [9]immediately
+q7533	Tirm the fat from the lamb and score the skni.	[1]Tirm [2]the [3]fat [4]from [5]the [6]lamb [7]and [8]score [9]the [10]skni
+q7275	Roll out the pastry to a thockness of three millimetrres.	[1]Roll [2]out [3]the [4]pastry [5]to [6]a [7]thockness [8]of [9]three [10]millimetrres
+q7442	Heat the oil in a wok over high heat.	[1]Heat [2]the [3]oil [4]in [5]a [6]wok [7]over [8]high [9]heat
+q5764	Slash the top of the loaf wtih a sharp knfe.	[1]Slash [2]the [3]top [4]of [5]the [6]loaf [7]wtih [8]a [9]sharp [10]knfe
+q2755	Poach the pears in red wine and cinnamon.	[1]Poach [2]the [3]pears [4]in [5]red [6]wine [7]and [8]cinnamon
+q2067	Fry the bacon until crisp and drain on kitchen paper.	[1]Fry [2]the [3]bacon [4]until [5]crisp [6]and [7]drain [8]on [9]kitchen [10]paper
+q8991	Mix the yeast with warm water and leave until frothy.	[1]Mix [2]the [3]yeast [4]with [5]warm [6]water [7]and [8]leave [9]until [10]frothy
+q6079	Bake the cake for 35 minuets or until a skewer comes out clean.	[1]Bake [2]the [3]cake [4]for [5]minuets [6]or [7]until [8]a [9]skewer [10]comes [11]out [12]clean
+q1418	Season the steak generously with salt and pepper.	[1]Season [2]the [3]steak [4]generously [5]with [6]salt [7]and [8]pepper
+q1706	Simmer the soup gentlly for twenty minutes.	[1]Simmer [2]the [3]soup [4]gentlly [5]for [6]twenty [7]minutes
+q4265	Fluff the rice with a fork and keep it warm.	[1]Fluff [2]the [3]rice [4]with [5]a [6]fork [7]and [8]keep [9]it [10]warm
+q9855	Rense the rice until the water runs clear.	[1]Rense [2]the [3]rice [4]until [5]the [6]water [7]runs [8]clear
+q2934	Grate the cheese and set it aside.	[1]Grate [2]the [3]cheese [4]and [5]set [6]it [7]aside
+q7402	Marinate the chickne thighs overnight in yoghurt and spices.	[1]Marinate [2]the [3]chickne [4]thighs [5]overnight [6]in [7]yoghurt [8]and [9]spices
+q6311	Brown the meatablls in batches so the pen is not crowded.	[1]Brown [2]the [3]meatablls [4]in [5]batches [6]so [7]the [8]pen [9]is [10]not [11]crowded
+q9679	Freeze the leftover source in small portions.	[1]Freeze [2]the [3]leftover [4]source [5]in [6]small [7]portions

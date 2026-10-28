@@ -1,0 +1,200 @@
+{"id": "s000c", "pair": 0, "dish": "Chocolate Chip Cookies", "text": "Preheat the oven to 180°C and line a baking tray with parchment paper.", "errors": []}
+{"id": "s000e", "pair": 0, "dish": "Chocolate Chip Cookies", "text": "Preheat the over to 180°C and line a baking tray with parchment paper.", "errors": [{"index": 2, "word": "over", "correct": "oven", "type": "real_word", "start": 12, "end": 16}]}
+{"id": "s001c", "pair": 1, "dish": "Scones", "text": "Sift the flour and salt into a large bowl.", "errors": []}
+{"id": "s001e", "pair": 1, "dish": "Scones", "text": "Sift the flour and salt into a large borl.", "errors": [{"index": 8, "word": "borl", "correct": "bowl", "type": "typo", "start": 37, "end": 41}]}
+{"id": "s002c", "pair": 2, "dish": "Beef Stew", "text": "Stir in the flour and simmer for 10 minutes.", "errors": []}
+{"id": "s002e", "pair": 2, "dish": "Beef Stew", "text": "Stir in the flower and summer for 10 minutes.", "errors": [{"index": 3, "word": "flower", "correct": "flour", "type": "real_word", "start": 12, "end": 18}, {"index": 5, "word": "summer", "correct": "simmer", "type": "real_word", "start": 23, "end": 29}]}
+{"id": "s003c", "pair": 3, "dish": "Bread Rolls", "text": "Knead the dough on a lightly floured surface until smooth.", "errors": []}
+{"id": "s003e", "pair": 3, "dish": "Bread Rolls", "text": "Knead the dough on a lightly floured surrace utnil smooth.", "errors": [{"index": 7, "word": "surrace", "correct": "surface", "type": "typo", "start": 37, "end": 44}, {"index": 8, "word": "utnil", "correct": "until", "type": "typo", "start": 45, "end": 50}]}
+{"id": "s004c", "pair": 4, "dish": "Bread Rolls", "text": "Cover the bowl with a damp towel and let the dough rise for one hour.", "errors": []}
+{"id": "s004e", "pair": 4, "dish": "Bread Rolls", "text": "Cover the bowl with a damp towel and let the doe rise for one hour.", "errors": [{"index": 10, "word": "doe", "correct": "dough", "type": "real_word", "start": 45, "end": 48}]}
+{"id": "s005c", "pair": 5, "dish": "Sponge Cake", "text": "Beat the eggs and sugar until pale and fluffy.", "errors": []}
+{"id": "s005e", "pair": 5, "dish": "Sponge Cake", "text": "Beet the eggs and sugar until pale and fluffy.", "errors": [{"index": 0, "word": "Beet", "correct": "Beat", "type": "real_word", "start": 0, "end": 4}]}
+{"id": "s006c", "pair": 6, "dish": "Strawberry Shortcake", "text": "Whisk the cream until soft peaks form.", "errors": []}
+{"id": "s006e", "pair": 6, "dish": "Strawberry Shortcake", "text": "Whisk the cream until sofft peaks form.", "errors": [{"index": 4, "word": "sofft", "correct": "soft", "type": "typo", "start": 22, "end": 27}]}
+{"id": "s007c", "pair": 7, "dish": "Potato Salad", "text": "Peel the potatoes and cut them into small cubes.", "errors": []}
+{"id": "s007e", "pair": 7, "dish": "Potato Salad", "text": "Peal the potatoes and cut them into small cubes.", "errors": [{"index": 0, "word": "Peal", "correct": "Peel", "type": "real_word", "start": 0, "end": 4}]}
+{"id": "s008c", "pair": 8, "dish": "Macaroni and Cheese", "text": "Grate the cheese and set it aside.", "errors": []}
+{"id": "s008e", "pair": 8, "dish": "Macaroni and Cheese", "text": "Grate the cheeese and set it aside.", "errors": [{"index": 2, "word": "cheeese", "correct": "cheese", "type": "typo", "start": 10, "end": 17}]}
+{"id": "s009c", "pair": 9, "dish": "Brownies", "text": "Pour the batter into the prepared pan and smooth the top.", "errors": []}
+{"id": "s009e", "pair": 9, "dish": "Brownies", "text": "Pour the batter into the prepared pen and smooth the top.", "errors": [{"index": 6, "word": "pen", "correct": "pan", "type": "real_word", "start": 34, "end": 37}]}
+{"id": "s010c", "pair": 10, "dish": "Banana Cake", "text": "Bake the cake for 35 minutes or until a skewer comes out clean.", "errors": []}
+{"id": "s010e", "pair": 10, "dish": "Banana Cake", "text": "Bake the cake for 35 minuets or until a skewer comes out clean.", "errors": [{"index": 4, "word": "minuets", "correct": "minutes", "type": "real_word", "start": 21, "end": 28}]}
+{"id": "s011c", "pair": 11, "dish": "Banana Cake", "text": "Let the cake cool in the tin before turning it out.", "errors": []}
+{"id": "s011e", "pair": 11, "dish": "Banana Cake", "text": "Let the cake coal in the tin before turning it out.", "errors": [{"index": 3, "word": "coal", "correct": "cool", "type": "real_word", "start": 13, "end": 17}]}
+{"id": "s012c", "pair": 12, "dish": "Beef Plate with Fries", "text": "Season the steak generously with salt and pepper.", "errors": []}
+{"id": "s012e", "pair": 12, "dish": "Beef Plate with Fries", "text": "Season the stake generously with salt and pepper.", "errors": [{"index": 2, "word": "stake", "correct": "steak", "type": "real_word", "start": 11, "end": 16}]}
+{"id": "s013c", "pair": 13, "dish": "Beef Plate with Fries", "text": "Sear the steak in a hot pan for two minutes on each side.", "errors": []}
+{"id": "s013e", "pair": 13, "dish": "Beef Plate with Fries", "text": "Sear the steak in a hot pan for two minuets on each side.", "errors": [{"index": 9, "word": "minuets", "correct": "minutes", "type": "real_word", "start": 36, "end": 43}]}
+{"id": "s014c", "pair": 14, "dish": "Roast Beef Sandwich", "text": "Rest the meat for five minutes before slicing.", "errors": []}
+{"id": "s014e", "pair": 14, "dish": "Roast Beef Sandwich", "text": "Rest the meat for five minuets before slicing.", "errors": [{"index": 5, "word": "minuets", "correct": "minutes", "type": "real_word", "start": 23, "end": 30}]}
+{"id": "s015c", "pair": 15, "dish": "Spaghetti Bolognese", "text": "Finely chop the onion and mince the garlic.", "errors": []}
+{"id": "s015e", "pair": 15, "dish": "Spaghetti Bolognese", "text": "Finely shop the onion and mince the garlic.", "errors": [{"index": 1, "word": "shop", "correct": "chop", "type": "real_word", "start": 7, "end": 11}]}
+{"id": "s016c", "pair": 16, "dish": "Vegetable Stir-Fry", "text": "Heat the oil in a wok over high heat.", "errors": []}
+{"id": "s016e", "pair": 16, "dish": "Vegetable Stir-Fry", "text": "Heat the oil in a walk over high heat.", "errors": [{"index": 5, "word": "walk", "correct": "wok", "type": "real_word", "start": 18, "end": 22}]}
+{"id": "s017c", "pair": 17, "dish": "Vegetable Stir-Fry", "text": "Stir-fry the vegetables for three minutes, tossing constantly.", "errors": []}
+{"id": "s017e", "pair": 17, "dish": "Vegetable Stir-Fry", "text": "Stir-fry the vegetables for three minuets, tossing constantly.", "errors": [{"index": 5, "word": "minuets", "correct": "minutes", "type": "real_word", "start": 34, "end": 41}]}
+{"id": "s018c", "pair": 18, "dish": "Teriyaki Chicken", "text": "Add the soy sauce and a pinch of sugar.", "errors": []}
+{"id": "s018e", "pair": 18, "dish": "Teriyaki Chicken", "text": "Add the soy sauce and a pnich of sugar.", "errors": [{"index": 6, "word": "pnich", "correct": "pinch", "type": "typo", "start": 24, "end": 29}]}
+{"id": "s019c", "pair": 19, "dish": "Carbonara", "text": "Bring a large pot of salted water to the boil.", "errors": []}
+{"id": "s019e", "pair": 19, "dish": "Carbonara", "text": "Brng a large pot of salted watter to the boil.", "errors": [{"index": 0, "word": "Brng", "correct": "Bring", "type": "typo", "start": 0, "end": 4}, {"index": 6, "word": "watter", "correct": "water", "type": "typo", "start": 27, "end": 33}]}
+{"id": "s020c", "pair": 20, "dish": "Carbonara", "text": "Cook the pasta until al dente, then drain well.", "errors": []}
+{"id": "s020e", "pair": 20, "dish": "Carbonara", "text": "Cook the pasta until al dente, then brain well.", "errors": [{"index": 7, "word": "brain", "correct": "drain", "type": "real_word", "start": 36, "end": 41}]}
+{"id": "s021c", "pair": 21, "dish": "Carbonara", "text": "Reserve a cup of the pasta water for the sauce.", "errors": []}
+{"id": "s021e", "pair": 21, "dish": "Carbonara", "text": "Reserve a cup of the pasat water for the sauce.", "errors": [{"index": 5, "word": "pasat", "correct": "pasta", "type": "typo", "start": 21, "end": 26}]}
+{"id": "s022c", "pair": 22, "dish": "Carbonara", "text": "Toss the pasta with the sauce and serve immediately.", "errors": []}
+{"id": "s022e", "pair": 22, "dish": "Carbonara", "text": "Toss the psta with the sauce and serve immediately.", "errors": [{"index": 2, "word": "psta", "correct": "pasta", "type": "typo", "start": 9, "end": 13}]}
+{"id": "s023c", "pair": 23, "dish": "Winter Vegetable Soup", "text": "Wash the leeks thoroughly to remove any grit.", "errors": []}
+{"id": "s023e", "pair": 23, "dish": "Winter Vegetable Soup", "text": "Wath the leeks thoroughly to remove any grti.", "errors": [{"index": 0, "word": "Wath", "correct": "Wash", "type": "typo", "start": 0, "end": 4}, {"index": 7, "word": "grti", "correct": "grit", "type": "typo", "start": 40, "end": 44}]}
+{"id": "s024c", "pair": 24, "dish": "Winter Vegetable Soup", "text": "Slice the leeks and soften them in butter over low heat.", "errors": []}
+{"id": "s024e", "pair": 24, "dish": "Winter Vegetable Soup", "text": "Sliice the leeks and soften them in butter over low heat.", "errors": [{"index": 0, "word": "Sliice", "correct": "Slice", "type": "typo", "start": 0, "end": 6}]}
+{"id": "s025c", "pair": 25, "dish": "Winter Vegetable Soup", "text": "Add the fresh thyme and a bay leaf to the pot.", "errors": []}
+{"id": "s025e", "pair": 25, "dish": "Winter Vegetable Soup", "text": "Add the frseh thyme and a bay leaf to the pot.", "errors": [{"index": 2, "word": "frseh", "correct": "fresh", "type": "typo", "start": 8, "end": 13}]}
+{"id": "s026c", "pair": 26, "dish": "Winter Vegetable Soup", "text": "Simmer the soup gently for twenty minutes.", "errors": []}
+{"id": "s026e", "pair": 26, "dish": "Winter Vegetable Soup", "text": "Simmer the soup gentlly for twenty minutes.", "errors": [{"index": 3, "word": "gentlly", "correct": "gently", "type": "typo", "start": 16, "end": 23}]}
+{"id": "s027c", "pair": 27, "dish": "Pumpkin Soup", "text": "Blend the soup until smooth and season to taste.", "errors": []}
+{"id": "s027e", "pair": 27, "dish": "Pumpkin Soup", "text": "Blend the soup until smoolh and season to taste.", "errors": [{"index": 4, "word": "smoolh", "correct": "smooth", "type": "typo", "start": 21, "end": 27}]}
+{"id": "s028c", "pair": 28, "dish": "Seafood Pot", "text": "Scrub the mussels and discard any that are open.", "errors": []}
+{"id": "s028e", "pair": 28, "dish": "Seafood Pot", "text": "Scrub the mussels and discard any that are opne.", "errors": [{"index": 8, "word": "opne", "correct": "open", "type": "typo", "start": 43, "end": 47}]}
+{"id": "s029c", "pair": 29, "dish": "Seafood Pot", "text": "Steam the mussels with white wine until the shells open.", "errors": []}
+{"id": "s029e", "pair": 29, "dish": "Seafood Pot", "text": "Steam the mussels with white wine unttil the shells open.", "errors": [{"index": 6, "word": "unttil", "correct": "until", "type": "typo", "start": 34, "end": 40}]}
+{"id": "s030c", "pair": 30, "dish": "Minestrone", "text": "Dice the carrots and celery into even pieces.", "errors": []}
+{"id": "s030e", "pair": 30, "dish": "Minestrone", "text": "Dies the carrots and celery into even pieces.", "errors": [{"index": 0, "word": "Dies", "correct": "Dice", "type": "real_word", "start": 0, "end": 4}]}
+{"id": "s031c", "pair": 31, "dish": "Grilled Vegetable Platter", "text": "Roast the vegetables until golden and tender.", "errors": []}
+{"id": "s031e", "pair": 31, "dish": "Grilled Vegetable Platter", "text": "Rast the vegetables until goldsn and tender.", "errors": [{"index": 0, "word": "Rast", "correct": "Roast", "type": "typo", "start": 0, "end": 4}, {"index": 4, "word": "goldsn", "correct": "golden", "type": "typo", "start": 26, "end": 32}]}
+{"id": "s032c", "pair": 32, "dish": "Greek Salad", "text": "Drizzle the salad with olive oil and lemon juice.", "errors": []}
+{"id": "s032e", "pair": 32, "dish": "Greek Salad", "text": "Drizzle the salad with olive oil and lmeon juice.", "errors": [{"index": 7, "word": "lmeon", "correct": "lemon", "type": "typo", "start": 37, "end": 42}]}
+{"id": "s033c", "pair": 33, "dish": "Pesto Pasta", "text": "Toast the pine nuts in a dry pan until fragrant.", "errors": []}
+{"id": "s033e", "pair": 33, "dish": "Pesto Pasta", "text": "Toast the pine nuts in a dry pen unil fragrant.", "errors": [{"index": 7, "word": "pen", "correct": "pan", "type": "real_word", "start": 29, "end": 32}, {"index": 8, "word": "unil", "correct": "until", "type": "typo", "start": 33, "end": 37}]}
+{"id": "s034c", "pair": 34, "dish": "Apple Tart", "text": "Roll out the pastry to a thickness of three millimetres.", "errors": []}
+{"id": "s034e", "pair": 34, "dish": "Apple Tart", "text": "Roll out the pastry to a thockness of three millimetrres.", "errors": [{"index": 6, "word": "thockness", "correct": "thickness", "type": "typo", "start": 25, "end": 34}, {"index": 9, "word": "millimetrres", "correct": "millimetres", "type": "typo", "start": 44, "end": 56}]}
+{"id": "s035c", "pair": 35, "dish": "Apple Tart", "text": "Line the tart tin with the pastry and chill for thirty minutes.", "errors": []}
+{"id": "s035e", "pair": 35, "dish": "Apple Tart", "text": "Line the turt tin with the pastry and chill for thirty minutes.", "errors": [{"index": 2, "word": "turt", "correct": "tart", "type": "typo", "start": 9, "end": 13}]}
+{"id": "s036c", "pair": 36, "dish": "Lemon Tart", "text": "Fill the pastry case with baking beans and bake blind.", "errors": []}
+{"id": "s036e", "pair": 36, "dish": "Lemon Tart", "text": "Fill the pastry case with baking beans and boil blind.", "errors": [{"index": 8, "word": "boil", "correct": "bake", "type": "real_word", "start": 43, "end": 47}]}
+{"id": "s037c", "pair": 37, "dish": "Victoria Sponge", "text": "Spread the jam evenly over the sponge.", "errors": []}
+{"id": "s037e", "pair": 37, "dish": "Victoria Sponge", "text": "Spread the jam evenlly over the sposge.", "errors": [{"index": 3, "word": "evenlly", "correct": "evenly", "type": "typo", "start": 15, "end": 22}, {"index": 6, "word": "sposge", "correct": "sponge", "type": "typo", "start": 32, "end": 38}]}
+{"id": "s038c", "pair": 38, "dish": "Cinnamon Rolls", "text": "Sprinkle the currants over the dough before rolling it up.", "errors": []}
+{"id": "s038e", "pair": 38, "dish": "Cinnamon Rolls", "text": "Sprinkle the currents over the dough before rolting it up.", "errors": [{"index": 2, "word": "currents", "correct": "currants", "type": "real_word", "start": 13, "end": 21}, {"index": 7, "word": "rolting", "correct": "rolling", "type": "typo", "start": 44, "end": 51}]}
+{"id": "s039c", "pair": 39, "dish": "Sausage Rolls", "text": "Brush the top with beaten egg for a glossy finish.", "errors": []}
+{"id": "s039e", "pair": 39, "dish": "Sausage Rolls", "text": "Brush the top with beaten egg for a gnossy fanish.", "errors": [{"index": 8, "word": "gnossy", "correct": "glossy", "type": "typo", "start": 36, "end": 42}, {"index": 9, "word": "fanish", "correct": "finish", "type": "typo", "start": 43, "end": 49}]}
+{"id": "s040c", "pair": 40, "dish": "Chocolate Mousse", "text": "Melt the chocolate in a bowl set over simmering water.", "errors": []}
+{"id": "s040e", "pair": 40, "dish": "Chocolate Mousse", "text": "Melt the chocotate in a bwol set over simmering water.", "errors": [{"index": 2, "word": "chocotate", "correct": "chocolate", "type": "typo", "start": 9, "end": 18}, {"index": 5, "word": "bwol", "correct": "bowl", "type": "typo", "start": 24, "end": 28}]}
+{"id": "s041c", "pair": 41, "dish": "Chocolate Mousse", "text": "Fold the melted chocolate gently into the whipped cream.", "errors": []}
+{"id": "s041e", "pair": 41, "dish": "Chocolate Mousse", "text": "Fold the melted chocolate gntly into the whipped cream.", "errors": [{"index": 4, "word": "gntly", "correct": "gently", "type": "typo", "start": 26, "end": 31}]}
+{"id": "s042c", "pair": 42, "dish": "Chocolate Mousse", "text": "Spoon the mousse into glasses and chill until set.", "errors": []}
+{"id": "s042e", "pair": 42, "dish": "Chocolate Mousse", "text": "Spoon the mousse into glaeses and chill until set.", "errors": [{"index": 4, "word": "glaeses", "correct": "glasses", "type": "typo", "start": 22, "end": 29}]}
+{"id": "s043c", "pair": 43, "dish": "Red Wine Fruit Compote", "text": "Halve the pears and remove the cores with a spoon.", "errors": []}
+{"id": "s043e", "pair": 43, "dish": "Red Wine Fruit Compote", "text": "Halve the pairs and remove the cores with a spoon.", "errors": [{"index": 2, "word": "pairs", "correct": "pears", "type": "real_word", "start": 10, "end": 15}]}
+{"id": "s044c", "pair": 44, "dish": "Red Wine Fruit Compote", "text": "Poach the pears in red wine and cinnamon.", "errors": []}
+{"id": "s044e", "pair": 44, "dish": "Red Wine Fruit Compote", "text": "Poach the pairs in red wine and cinnamon.", "errors": [{"index": 2, "word": "pairs", "correct": "pears", "type": "real_word", "start": 10, "end": 15}]}
+{"id": "s045c", "pair": 45, "dish": "Apple Crumble", "text": "Serve the dessert with a scoop of vanilla ice cream.", "errors": []}
+{"id": "s045e", "pair": 45, "dish": "Apple Crumble", "text": "Serve the dessert wsth a scoop of vanilla ice cream.", "errors": [{"index": 3, "word": "wsth", "correct": "with", "type": "typo", "start": 18, "end": 22}]}
+{"id": "s046c", "pair": 46, "dish": "Tandoori Chicken", "text": "Marinate the chicken thighs overnight in yoghurt and spices.", "errors": []}
+{"id": "s046e", "pair": 46, "dish": "Tandoori Chicken", "text": "Marinate the chickne thighs overnight in yoghurt and spices.", "errors": [{"index": 2, "word": "chickne", "correct": "chicken", "type": "typo", "start": 13, "end": 20}]}
+{"id": "s047c", "pair": 47, "dish": "Yakitori", "text": "Thread the chicken onto skewers and grill until charred.", "errors": []}
+{"id": "s047e", "pair": 47, "dish": "Yakitori", "text": "Thread the chhicken onto skewers and griill until charred.", "errors": [{"index": 2, "word": "chhicken", "correct": "chicken", "type": "typo", "start": 11, "end": 19}, {"index": 6, "word": "griill", "correct": "grill", "type": "typo", "start": 37, "end": 43}]}
+{"id": "s048c", "pair": 48, "dish": "Thai Grilled Chicken", "text": "Squeeze the lime over the chicken just before serving.", "errors": []}
+{"id": "s048e", "pair": 48, "dish": "Thai Grilled Chicken", "text": "Squeeze the line over the chicken just before serving.", "errors": [{"index": 2, "word": "line", "correct": "lime", "type": "real_word", "start": 12, "end": 16}]}
+{"id": "s049c", "pair": 49, "dish": "Chili con Carne", "text": "Soak the dried beans in cold water overnight.", "errors": []}
+{"id": "s049e", "pair": 49, "dish": "Chili con Carne", "text": "Soak the drieed beans in cold water overnight.", "errors": [{"index": 2, "word": "drieed", "correct": "dried", "type": "typo", "start": 9, "end": 15}]}
+{"id": "s050c", "pair": 50, "dish": "Curry Plate", "text": "Rinse the rice until the water runs clear.", "errors": []}
+{"id": "s050e", "pair": 50, "dish": "Curry Plate", "text": "Rense the rice until the water runs clear.", "errors": [{"index": 0, "word": "Rense", "correct": "Rinse", "type": "typo", "start": 0, "end": 5}]}
+{"id": "s051c", "pair": 51, "dish": "Curry Plate", "text": "Bring the rice to the boil, then cover and reduce the heat.", "errors": []}
+{"id": "s051e", "pair": 51, "dish": "Curry Plate", "text": "Bring the rice to the boil, then cover and reduce the hate.", "errors": [{"index": 11, "word": "hate", "correct": "heat", "type": "real_word", "start": 54, "end": 58}]}
+{"id": "s052c", "pair": 52, "dish": "Curry Plate", "text": "Fluff the rice with a fork and keep it warm.", "errors": []}
+{"id": "s052e", "pair": 52, "dish": "Curry Plate", "text": "Fluff the rice with a ferk and keep it warm.", "errors": [{"index": 5, "word": "ferk", "correct": "fork", "type": "typo", "start": 22, "end": 26}]}
+{"id": "s053c", "pair": 53, "dish": "Omelette", "text": "Crack the eggs into a bowl and whisk with a fork.", "errors": []}
+{"id": "s053e", "pair": 53, "dish": "Omelette", "text": "Crack the etgs into a bowl and whisk with a fork.", "errors": [{"index": 2, "word": "etgs", "correct": "eggs", "type": "typo", "start": 10, "end": 14}]}
+{"id": "s054c", "pair": 54, "dish": "Scrambled Eggs on Toast", "text": "Melt a knob of butter in a frying pan.", "errors": []}
+{"id": "s054e", "pair": 54, "dish": "Scrambled Eggs on Toast", "text": "Melt a knob of butter in a frying pen.", "errors": [{"index": 8, "word": "pen", "correct": "pan", "type": "real_word", "start": 34, "end": 37}]}
+{"id": "s055c", "pair": 55, "dish": "Scrambled Eggs on Toast", "text": "Pour in the eggs and stir gently until just set.", "errors": []}
+{"id": "s055e", "pair": 55, "dish": "Scrambled Eggs on Toast", "text": "Poor in the eggs and steer gently until just set.", "errors": [{"index": 0, "word": "Poor", "correct": "Pour", "type": "real_word", "start": 0, "end": 4}, {"index": 5, "word": "steer", "correct": "stir", "type": "real_word", "start": 21, "end": 26}]}
+{"id": "s056c", "pair": 56, "dish": "BLT Sandwich", "text": "Fry the bacon until crisp and drain on kitchen paper.", "errors": []}
+{"id": "s056e", "pair": 56, "dish": "BLT Sandwich", "text": "Fry the bacon until crisp and brain on kitchen paper.", "errors": [{"index": 6, "word": "brain", "correct": "drain", "type": "real_word", "start": 30, "end": 35}]}
+{"id": "s057c", "pair": 57, "dish": "Cobb Salad", "text": "Crumble the bacon over the salad.", "errors": []}
+{"id": "s057e", "pair": 57, "dish": "Cobb Salad", "text": "Crumbe the bacon over the salad.", "errors": [{"index": 0, "word": "Crumbe", "correct": "Crumble", "type": "typo", "start": 0, "end": 6}]}
+{"id": "s058c", "pair": 58, "dish": "Roast Lamb", "text": "Trim the fat from the lamb and score the skin.", "errors": []}
+{"id": "s058e", "pair": 58, "dish": "Roast Lamb", "text": "Tirm the fat from the lamb and score the skni.", "errors": [{"index": 0, "word": "Tirm", "correct": "Trim", "type": "typo", "start": 0, "end": 4}, {"index": 9, "word": "skni", "correct": "skin", "type": "typo", "start": 41, "end": 45}]}
+{"id": "s059c", "pair": 59, "dish": "Roast Lamb", "text": "Rub the lamb with garlic and rosemary.", "errors": []}
+{"id": "s059e", "pair": 59, "dish": "Roast Lamb", "text": "Rub the lamb wih garlic and rosemary.", "errors": [{"index": 3, "word": "wih", "correct": "with", "type": "typo", "start": 13, "end": 16}]}
+{"id": "s060c", "pair": 60, "dish": "Roast Lamb", "text": "Roast the lamb for one hour, basting occasionally.", "errors": []}
+{"id": "s060e", "pair": 60, "dish": "Roast Lamb", "text": "Roast the lrmb for one horu, basting occasionally.", "errors": [{"index": 2, "word": "lrmb", "correct": "lamb", "type": "typo", "start": 10, "end": 14}, {"index": 5, "word": "horu", "correct": "hour", "type": "typo", "start": 23, "end": 27}]}
+{"id": "s061c", "pair": 61, "dish": "Roast Lamb with Gravy", "text": "Deglaze the roasting tin with a splash of stock.", "errors": []}
+{"id": "s061e", "pair": 61, "dish": "Roast Lamb with Gravy", "text": "Deglaze the roasting tin with a splash of sttock.", "errors": [{"index": 8, "word": "sttock", "correct": "stock", "type": "typo", "start": 42, "end": 48}]}
+{"id": "s062c", "pair": 62, "dish": "Roast Lamb with Gravy", "text": "Strain the gravy through a fine sieve.", "errors": []}
+{"id": "s062e", "pair": 62, "dish": "Roast Lamb with Gravy", "text": "Strain the gravy thrtugh a fine sieve.", "errors": [{"index": 3, "word": "thrtugh", "correct": "through", "type": "typo", "start": 17, "end": 24}]}
+{"id": "s063c", "pair": 63, "dish": "Overnight Oats", "text": "Stir the cereal into the warm milk and leave to soak.", "errors": []}
+{"id": "s063e", "pair": 63, "dish": "Overnight Oats", "text": "Stir the serial into the warm milk and leaev to soak.", "errors": [{"index": 2, "word": "serial", "correct": "cereal", "type": "real_word", "start": 9, "end": 15}, {"index": 8, "word": "leaev", "correct": "leave", "type": "typo", "start": 39, "end": 44}]}
+{"id": "s064c", "pair": 64, "dish": "Breakfast Bowl", "text": "Top the porridge with sliced banana and honey.", "errors": []}
+{"id": "s064e", "pair": 64, "dish": "Breakfast Bowl", "text": "Top the poridge with silced banana and honey.", "errors": [{"index": 2, "word": "poridge", "correct": "porridge", "type": "typo", "start": 8, "end": 15}, {"index": 4, "word": "silced", "correct": "sliced", "type": "typo", "start": 21, "end": 27}]}
+{"id": "s065c", "pair": 65, "dish": "Fruit Tart", "text": "Wash the berries and pat them dry.", "errors": []}
+{"id": "s065e", "pair": 65, "dish": "Fruit Tart", "text": "Wash the buries and pat them dry.", "errors": [{"index": 2, "word": "buries", "correct": "berries", "type": "real_word", "start": 9, "end": 15}]}
+{"id": "s066c", "pair": 66, "dish": "Fruit Tart", "text": "Arrange the berries on top of the tart.", "errors": []}
+{"id": "s066e", "pair": 66, "dish": "Fruit Tart", "text": "Arrrnge the berries on top of the tart.", "errors": [{"index": 0, "word": "Arrrnge", "correct": "Arrange", "type": "typo", "start": 0, "end": 7}]}
+{"id": "s067c", "pair": 67, "dish": "Fruit Tart", "text": "Dust the tart with icing sugar before serving.", "errors": []}
+{"id": "s067e", "pair": 67, "dish": "Fruit Tart", "text": "Dust the tart with icnng sugar before serving.", "errors": [{"index": 4, "word": "icnng", "correct": "icing", "type": "typo", "start": 19, "end": 24}]}
+{"id": "s068c", "pair": 68, "dish": "Meatball Sub", "text": "Combine the minced beef, breadcrumbs and egg in a bowl.", "errors": []}
+{"id": "s068e", "pair": 68, "dish": "Meatball Sub", "text": "Combine the mincnd beef, breadcrumbs and egg in a boal.", "errors": [{"index": 2, "word": "mincnd", "correct": "minced", "type": "typo", "start": 12, "end": 18}, {"index": 9, "word": "boal", "correct": "bowl", "type": "typo", "start": 50, "end": 54}]}
+{"id": "s069c", "pair": 69, "dish": "Meatball Sub", "text": "Shape the mixture into small balls with wet hands.", "errors": []}
+{"id": "s069e", "pair": 69, "dish": "Meatball Sub", "text": "Shape the mixure into small balls with wet hands.", "errors": [{"index": 2, "word": "mixure", "correct": "mixture", "type": "typo", "start": 10, "end": 16}]}
+{"id": "s070c", "pair": 70, "dish": "Meatball Sub", "text": "Brown the meatballs in batches so the pan is not crowded.", "errors": []}
+{"id": "s070e", "pair": 70, "dish": "Meatball Sub", "text": "Brown the meatablls in batches so the pen is not crowded.", "errors": [{"index": 2, "word": "meatablls", "correct": "meatballs", "type": "typo", "start": 10, "end": 19}, {"index": 7, "word": "pen", "correct": "pan", "type": "real_word", "start": 38, "end": 41}]}
+{"id": "s071c", "pair": 71, "dish": "Meatball Sub", "text": "Add the chopped tomatoes and simmer until thick.", "errors": []}
+{"id": "s071e", "pair": 71, "dish": "Meatball Sub", "text": "Add the chopped tomateos and simmer until thick.", "errors": [{"index": 3, "word": "tomateos", "correct": "tomatoes", "type": "typo", "start": 16, "end": 24}]}
+{"id": "s072c", "pair": 72, "dish": "Coleslaw", "text": "Shred the cabbage as finely as possible.", "errors": []}
+{"id": "s072e", "pair": 72, "dish": "Coleslaw", "text": "Sred the cabbage as finely as possible.", "errors": [{"index": 0, "word": "Sred", "correct": "Shred", "type": "typo", "start": 0, "end": 4}]}
+{"id": "s073c", "pair": 73, "dish": "Coleslaw", "text": "Mix the cabbage with the dressing and leave for an hour.", "errors": []}
+{"id": "s073e", "pair": 73, "dish": "Coleslaw", "text": "Mix the cabbage with the dressung and leave for an hour.", "errors": [{"index": 5, "word": "dressung", "correct": "dressing", "type": "typo", "start": 25, "end": 33}]}
+{"id": "s074c", "pair": 74, "dish": "Thai Green Curry", "text": "Cut the chilli in half and scrape out the seeds.", "errors": []}
+{"id": "s074e", "pair": 74, "dish": "Thai Green Curry", "text": "Cut the chilli in hauf and scrape out the seeds.", "errors": [{"index": 4, "word": "hauf", "correct": "half", "type": "typo", "start": 18, "end": 22}]}
+{"id": "s075c", "pair": 75, "dish": "Thai Green Curry", "text": "Pound the chilli, garlic and ginger to a paste.", "errors": []}
+{"id": "s075e", "pair": 75, "dish": "Thai Green Curry", "text": "Pound the chilli, garlic and ginger to a paaste.", "errors": [{"index": 8, "word": "paaste", "correct": "paste", "type": "typo", "start": 41, "end": 47}]}
+{"id": "s076c", "pair": 76, "dish": "Thai Green Curry", "text": "Fry the paste in a little oil until fragrant.", "errors": []}
+{"id": "s076e", "pair": 76, "dish": "Thai Green Curry", "text": "Fly the paste in a little oil ultil fragrant.", "errors": [{"index": 0, "word": "Fly", "correct": "Fry", "type": "real_word", "start": 0, "end": 3}, {"index": 7, "word": "ultil", "correct": "until", "type": "typo", "start": 30, "end": 35}]}
+{"id": "s077c", "pair": 77, "dish": "Thai Green Curry", "text": "Stir in the coconut milk and bring to a simmer.", "errors": []}
+{"id": "s077e", "pair": 77, "dish": "Thai Green Curry", "text": "Steer in the coconut milk and bring to a simmer.", "errors": [{"index": 0, "word": "Steer", "correct": "Stir", "type": "real_word", "start": 0, "end": 5}]}
+{"id": "s078c", "pair": 78, "dish": "Thai Green Curry", "text": "Add the prawns and cook until they turn pink.", "errors": []}
+{"id": "s078e", "pair": 78, "dish": "Thai Green Curry", "text": "Add the prawns and cook until tney tuurn pink.", "errors": [{"index": 6, "word": "tney", "correct": "they", "type": "typo", "start": 30, "end": 34}, {"index": 7, "word": "tuurn", "correct": "turn", "type": "typo", "start": 35, "end": 40}]}
+{"id": "s079c", "pair": 79, "dish": "Thai Green Curry", "text": "Garnish with fresh coriander and a wedge of lime.", "errors": []}
+{"id": "s079e", "pair": 79, "dish": "Thai Green Curry", "text": "Garnish with fresh coriander and a wedge of line.", "errors": [{"index": 8, "word": "line", "correct": "lime", "type": "real_word", "start": 44, "end": 48}]}
+{"id": "s080c", "pair": 80, "dish": "Tacos", "text": "Warm the tortillas in a dry pan for a few seconds.", "errors": []}
+{"id": "s080e", "pair": 80, "dish": "Tacos", "text": "Warm the tortillas in a dry pen for a few seconds.", "errors": [{"index": 6, "word": "pen", "correct": "pan", "type": "real_word", "start": 28, "end": 31}]}
+{"id": "s081c", "pair": 81, "dish": "Tacos", "text": "Mash the avocado with lime juice and salt.", "errors": []}
+{"id": "s081e", "pair": 81, "dish": "Tacos", "text": "Msah the avocaso with lime juice and salt.", "errors": [{"index": 0, "word": "Msah", "correct": "Mash", "type": "typo", "start": 0, "end": 4}, {"index": 2, "word": "avocaso", "correct": "avocado", "type": "typo", "start": 9, "end": 16}]}
+{"id": "s082c", "pair": 82, "dish": "Avocado Toast", "text": "Spread the avocado over the toast and add a poached egg.", "errors": []}
+{"id": "s082e", "pair": 82, "dish": "Avocado Toast", "text": "Spread the avocado oveer the toaast and add a poached egg.", "errors": [{"index": 3, "word": "oveer", "correct": "over", "type": "typo", "start": 19, "end": 24}, {"index": 5, "word": "toaast", "correct": "toast", "type": "typo", "start": 29, "end": 35}]}
+{"id": "s083c", "pair": 83, "dish": "Banana Bread", "text": "Grease the loaf tin and dust it with flour.", "errors": []}
+{"id": "s083e", "pair": 83, "dish": "Banana Bread", "text": "Gerase the loaf tin and dust it wiith flour.", "errors": [{"index": 0, "word": "Gerase", "correct": "Grease", "type": "typo", "start": 0, "end": 6}, {"index": 7, "word": "wiith", "correct": "with", "type": "typo", "start": 32, "end": 37}]}
+{"id": "s084c", "pair": 84, "dish": "White Bread", "text": "Mix the yeast with warm water and leave until frothy.", "errors": []}
+{"id": "s084e", "pair": 84, "dish": "White Bread", "text": "Mix the yeast with warrm water and leave until frothy.", "errors": [{"index": 4, "word": "warrm", "correct": "warm", "type": "typo", "start": 19, "end": 24}]}
+{"id": "s085c", "pair": 85, "dish": "White Bread", "text": "Punch down the dough and shape it into a loaf.", "errors": []}
+{"id": "s085e", "pair": 85, "dish": "White Bread", "text": "Punch down the doe and shape it into a loaf.", "errors": [{"index": 3, "word": "doe", "correct": "dough", "type": "real_word", "start": 15, "end": 18}]}
+{"id": "s086c", "pair": 86, "dish": "White Bread", "text": "Slash the top of the loaf with a sharp knife.", "errors": []}
+{"id": "s086e", "pair": 86, "dish": "White Bread", "text": "Slash the top of the loaf wtih a sharp knfe.", "errors": [{"index": 6, "word": "wtih", "correct": "with", "type": "typo", "start": 26, "end": 30}, {"index": 9, "word": "knfe", "correct": "knife", "type": "typo", "start": 39, "end": 43}]}
+{"id": "s087c", "pair": 87, "dish": "White Bread", "text": "Bake the bread until it sounds hollow when tapped.", "errors": []}
+{"id": "s087e", "pair": 87, "dish": "White Bread", "text": "Bake the bread until it sounds hollow waen tappsd.", "errors": [{"index": 7, "word": "waen", "correct": "when", "type": "typo", "start": 38, "end": 42}, {"index": 8, "word": "tappsd", "correct": "tapped", "type": "typo", "start": 43, "end": 49}]}
+{"id": "s088c", "pair": 88, "dish": "White Bread", "text": "Leave the bread to cool on a wire rack.", "errors": []}
+{"id": "s088e", "pair": 88, "dish": "White Bread", "text": "Leave the bread to coal on a wire rack.", "errors": [{"index": 4, "word": "coal", "correct": "cool", "type": "real_word", "start": 19, "end": 23}]}
+{"id": "s089c", "pair": 89, "dish": "Herb Roasted Chicken", "text": "Chop the herbs roughly and scatter them over the dish.", "errors": []}
+{"id": "s089e", "pair": 89, "dish": "Herb Roasted Chicken", "text": "Chop the herbs roughly and scatter them over the dinh.", "errors": [{"index": 9, "word": "dinh", "correct": "dish", "type": "typo", "start": 49, "end": 53}]}
+{"id": "s090c", "pair": 90, "dish": "Quiche", "text": "Squeeze the excess water from the spinach.", "errors": []}
+{"id": "s090e", "pair": 90, "dish": "Quiche", "text": "Squeeze the excess water from the spianch.", "errors": [{"index": 6, "word": "spianch", "correct": "spinach", "type": "typo", "start": 34, "end": 41}]}
+{"id": "s091c", "pair": 91, "dish": "Quiche", "text": "Wilt the spinach in a covered pan with a little butter.", "errors": []}
+{"id": "s091e", "pair": 91, "dish": "Quiche", "text": "Wilt the spinach in a covered pen with a little butter.", "errors": [{"index": 6, "word": "pen", "correct": "pan", "type": "real_word", "start": 30, "end": 33}]}
+{"id": "s092c", "pair": 92, "dish": "Grilled Salmon", "text": "Grill the fish skin-side down until crisp.", "errors": []}
+{"id": "s092e", "pair": 92, "dish": "Grilled Salmon", "text": "Griill the fish skin-side down utnil crisp.", "errors": [{"index": 0, "word": "Griill", "correct": "Grill", "type": "typo", "start": 0, "end": 6}, {"index": 5, "word": "utnil", "correct": "until", "type": "typo", "start": 31, "end": 36}]}
+{"id": "s093c", "pair": 93, "dish": "Fish Cakes", "text": "Flake the fish and check for any bones.", "errors": []}
+{"id": "s093e", "pair": 93, "dish": "Fish Cakes", "text": "Flake the fish and check for any boens.", "errors": [{"index": 7, "word": "boens", "correct": "bones", "type": "typo", "start": 33, "end": 38}]}
+{"id": "s094c", "pair": 94, "dish": "Mushroom Risotto", "text": "Stir the risotto constantly, adding the stock a ladle at a time.", "errors": []}
+{"id": "s094e", "pair": 94, "dish": "Mushroom Risotto", "text": "Stir the risotto constantly, adding the stck a ladle at a time.", "errors": [{"index": 6, "word": "stck", "correct": "stock", "type": "typo", "start": 40, "end": 44}]}
+{"id": "s095c", "pair": 95, "dish": "Mushroom Risotto", "text": "Remove the pan from the heat and stir in the parmesan.", "errors": []}
+{"id": "s095e", "pair": 95, "dish": "Mushroom Risotto", "text": "Remove the pan froom the heat and stir in the parmesan.", "errors": [{"index": 3, "word": "froom", "correct": "from", "type": "typo", "start": 15, "end": 20}]}
+{"id": "s096c", "pair": 96, "dish": "Mushroom Risotto", "text": "Let the risotto rest for two minutes before serving.", "errors": []}
+{"id": "s096e", "pair": 96, "dish": "Mushroom Risotto", "text": "Let the rieotto rest for two minutes before serving.", "errors": [{"index": 2, "word": "rieotto", "correct": "risotto", "type": "typo", "start": 8, "end": 15}]}
+{"id": "s097c", "pair": 97, "dish": "Chocolate Chip Cookies", "text": "Store the cookies in an airtight container for up to a week.", "errors": []}
+{"id": "s097e", "pair": 97, "dish": "Chocolate Chip Cookies", "text": "Store the colkies in an airtight container for up to a week.", "errors": [{"index": 2, "word": "colkies", "correct": "cookies", "type": "typo", "start": 10, "end": 17}]}
+{"id": "s098c", "pair": 98, "dish": "Bolognese", "text": "Freeze the leftover sauce in small portions.", "errors": []}
+{"id": "s098e", "pair": 98, "dish": "Bolognese", "text": "Freeze the leftover source in small portions.", "errors": [{"index": 3, "word": "source", "correct": "sauce", "type": "real_word", "start": 20, "end": 26}]}
+{"id": "s099c", "pair": 99, "dish": "Beef Stew", "text": "Thaw the meat in the fridge overnight before cooking.", "errors": []}
+{"id": "s099e", "pair": 99, "dish": "Beef Stew", "text": "Thaw the meet in the fridge overnight before cooking.", "errors": [{"index": 2, "word": "meet", "correct": "meat", "type": "real_word", "start": 9, "end": 13}]}

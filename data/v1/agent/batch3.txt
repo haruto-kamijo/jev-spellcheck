@@ -1,0 +1,50 @@
+q2305	Line the tart tin with the pastry and chill for thirty minutes.	[1]Line [2]the [3]tart [4]tin [5]with [6]the [7]pastry [8]and [9]chill [10]for [11]thirty [12]minutes
+q9578	Knead the dough on a lightly floured surface until smooth.	[1]Knead [2]the [3]dough [4]on [5]a [6]lightly [7]floured [8]surface [9]until [10]smooth
+q5842	Remove the pan from the heat and stir in the parmesan.	[1]Remove [2]the [3]pan [4]from [5]the [6]heat [7]and [8]stir [9]in [10]the [11]parmesan
+q6551	Let the cake cool in the tin before turning it out.	[1]Let [2]the [3]cake [4]cool [5]in [6]the [7]tin [8]before [9]turning [10]it [11]out
+q6831	Add the chopped tomatoes and simmer until thick.	[1]Add [2]the [3]chopped [4]tomatoes [5]and [6]simmer [7]until [8]thick
+q5135	Bake the bread until it sounds hollow when tapped.	[1]Bake [2]the [3]bread [4]until [5]it [6]sounds [7]hollow [8]when [9]tapped
+q7144	Thaw the meat in the fridge overnight before cooking.	[1]Thaw [2]the [3]meat [4]in [5]the [6]fridge [7]overnight [8]before [9]cooking
+q4341	Peel the potatoes and cut them into small cubes.	[1]Peel [2]the [3]potatoes [4]and [5]cut [6]them [7]into [8]small [9]cubes
+q1477	Sear the steak in a hot pan for two minuets on each side.	[1]Sear [2]the [3]steak [4]in [5]a [6]hot [7]pan [8]for [9]two [10]minuets [11]on [12]each [13]side
+q6193	Shape the mixure into small balls with wet hands.	[1]Shape [2]the [3]mixure [4]into [5]small [6]balls [7]with [8]wet [9]hands
+q7158	Finely chop the onion and mince the garlic.	[1]Finely [2]chop [3]the [4]onion [5]and [6]mince [7]the [8]garlic
+q4138	Msah the avocaso with lime juice and salt.	[1]Msah [2]the [3]avocaso [4]with [5]lime [6]juice [7]and [8]salt
+q8590	Brush the top with beaten egg for a glossy finish.	[1]Brush [2]the [3]top [4]with [5]beaten [6]egg [7]for [8]a [9]glossy [10]finish
+q5623	Wilt the spinach in a covered pan with a little butter.	[1]Wilt [2]the [3]spinach [4]in [5]a [6]covered [7]pan [8]with [9]a [10]little [11]butter
+q6587	Halve the pears and remove the cores with a spoon.	[1]Halve [2]the [3]pears [4]and [5]remove [6]the [7]cores [8]with [9]a [10]spoon
+q9515	Store the colkies in an airtight container for up to a week.	[1]Store [2]the [3]colkies [4]in [5]an [6]airtight [7]container [8]for [9]up [10]to [11]a [12]week
+q1826	Wash the leeks thoroughly to remove any grit.	[1]Wash [2]the [3]leeks [4]thoroughly [5]to [6]remove [7]any [8]grit
+q8100	Beet the eggs and sugar until pale and fluffy.	[1]Beet [2]the [3]eggs [4]and [5]sugar [6]until [7]pale [8]and [9]fluffy
+q2327	Flake the fish and check for any boens.	[1]Flake [2]the [3]fish [4]and [5]check [6]for [7]any [8]boens
+q9162	Reserve a cup of the pasat water for the sauce.	[1]Reserve [2]a [3]cup [4]of [5]the [6]pasat [7]water [8]for [9]the [10]sauce
+q2679	Pound the chilli, garlic and ginger to a paste.	[1]Pound [2]the [3]chilli [4]garlic [5]and [6]ginger [7]to [8]a [9]paste
+q8131	Thread the chicken onto skewers and grill until charred.	[1]Thread [2]the [3]chicken [4]onto [5]skewers [6]and [7]grill [8]until [9]charred
+q2282	Fold the melted chocolate gntly into the whipped cream.	[1]Fold [2]the [3]melted [4]chocolate [5]gntly [6]into [7]the [8]whipped [9]cream
+q2453	Pour in the eggs and stir gently until just set.	[1]Pour [2]in [3]the [4]eggs [5]and [6]stir [7]gently [8]until [9]just [10]set
+q9253	Rub the lamb with garlic and rosemary.	[1]Rub [2]the [3]lamb [4]with [5]garlic [6]and [7]rosemary
+q5756	Stir the cereal into the warm milk and leave to soak.	[1]Stir [2]the [3]cereal [4]into [5]the [6]warm [7]milk [8]and [9]leave [10]to [11]soak
+q8975	Crack the etgs into a bowl and whisk with a fork.	[1]Crack [2]the [3]etgs [4]into [5]a [6]bowl [7]and [8]whisk [9]with [10]a [11]fork
+q7399	Stir-fry the vegetables for three minuets, tossing constantly.	[1]Stir-fry [2]the [3]vegetables [4]for [5]three [6]minuets [7]tossing [8]constantly
+q8198	Bring the rice to the boil, then cover and reduce the heat.	[1]Bring [2]the [3]rice [4]to [5]the [6]boil [7]then [8]cover [9]and [10]reduce [11]the [12]heat
+q3391	Crumbe the bacon over the salad.	[1]Crumbe [2]the [3]bacon [4]over [5]the [6]salad
+q1392	Dust the tart with icing sugar before serving.	[1]Dust [2]the [3]tart [4]with [5]icing [6]sugar [7]before [8]serving
+q4938	Spread the jam evenlly over the sposge.	[1]Spread [2]the [3]jam [4]evenlly [5]over [6]the [7]sposge
+q1228	Steer in the coconut milk and bring to a simmer.	[1]Steer [2]in [3]the [4]coconut [5]milk [6]and [7]bring [8]to [9]a [10]simmer
+q3424	Blend the soup until smooth and season to taste.	[1]Blend [2]the [3]soup [4]until [5]smooth [6]and [7]season [8]to [9]taste
+q6251	Sift the flour and salt into a large borl.	[1]Sift [2]the [3]flour [4]and [5]salt [6]into [7]a [8]large [9]borl
+q2280	Chop the herbs roughly and scatter them over the dinh.	[1]Chop [2]the [3]herbs [4]roughly [5]and [6]scatter [7]them [8]over [9]the [10]dinh
+q6621	Pour the batter into the prepared pen and smooth the top.	[1]Pour [2]the [3]batter [4]into [5]the [6]prepared [7]pen [8]and [9]smooth [10]the [11]top
+q3827	Deglaze the roasting tin with a splash of sttock.	[1]Deglaze [2]the [3]roasting [4]tin [5]with [6]a [7]splash [8]of [9]sttock
+q1576	Grease the loaf tin and dust it with flour.	[1]Grease [2]the [3]loaf [4]tin [5]and [6]dust [7]it [8]with [9]flour
+q3136	Soak the drieed beans in cold water overnight.	[1]Soak [2]the [3]drieed [4]beans [5]in [6]cold [7]water [8]overnight
+q4555	Toast the pine nuts in a dry pen unil fragrant.	[1]Toast [2]the [3]pine [4]nuts [5]in [6]a [7]dry [8]pen [9]unil [10]fragrant
+q2919	Bring a large pot of salted water to the boil.	[1]Bring [2]a [3]large [4]pot [5]of [6]salted [7]water [8]to [9]the [10]boil
+q9438	Add the frseh thyme and a bay leaf to the pot.	[1]Add [2]the [3]frseh [4]thyme [5]and [6]a [7]bay [8]leaf [9]to [10]the [11]pot
+q5052	Punch down the doe and shape it into a loaf.	[1]Punch [2]down [3]the [4]doe [5]and [6]shape [7]it [8]into [9]a [10]loaf
+q9725	Garnish with fresh coriander and a wedge of lime.	[1]Garnish [2]with [3]fresh [4]coriander [5]and [6]a [7]wedge [8]of [9]lime
+q3401	Mix the cabbage with the dressung and leave for an hour.	[1]Mix [2]the [3]cabbage [4]with [5]the [6]dressung [7]and [8]leave [9]for [10]an [11]hour
+q4462	Serve the dessert wsth a scoop of vanilla ice cream.	[1]Serve [2]the [3]dessert [4]wsth [5]a [6]scoop [7]of [8]vanilla [9]ice [10]cream
+q4976	Roast the vegetables until golden and tender.	[1]Roast [2]the [3]vegetables [4]until [5]golden [6]and [7]tender
+q9539	Steam the mussels with white wine unttil the shells open.	[1]Steam [2]the [3]mussels [4]with [5]white [6]wine [7]unttil [8]the [9]shells [10]open
+q3008	Wash the buries and pat them dry.	[1]Wash [2]the [3]buries [4]and [5]pat [6]them [7]dry

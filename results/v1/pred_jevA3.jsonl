@@ -1,0 +1,200 @@
+{"id": "s000c", "p": [0.04, 0.04, 0.04, 0.04, 0.1, 0.05, 0.04, 0.04, 0.04, 0.05, 0.05, 0.05, 0.04], "sent": 0.08, "latency": 314, "cached": true, "tokens": 1875, "n_questions": 14}
+{"id": "s000e", "p": [0.04, 0.04, 0.85, 0.04, 0.13, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04, 0.04], "sent": 0.86, "latency": 306, "cached": true, "tokens": 1875, "n_questions": 14}
+{"id": "s001c", "p": [0.04, 0.04, 0.03, 0.05, 0.04, 0.04, 0.04, 0.05, 0.04], "sent": 0.04, "latency": 324, "cached": true, "tokens": 1382, "n_questions": 10}
+{"id": "s001e", "p": [0.04, 0.04, 0.03, 0.04, 0.05, 0.05, 0.06, 0.06, 0.95], "sent": 0.93, "latency": 394, "cached": true, "tokens": 1383, "n_questions": 10}
+{"id": "s002c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04], "sent": 0.07, "latency": 393, "cached": true, "tokens": 1269, "n_questions": 9}
+{"id": "s002e", "p": [0.04, 0.05, 0.05, 0.94, 0.07, 0.91, 0.05, 0.05], "sent": 0.95, "latency": 302, "cached": true, "tokens": 1267, "n_questions": 9}
+{"id": "s003c", "p": [0.04, 0.04, 0.04, 0.03, 0.05, 0.05, 0.04, 0.04, 0.05, 0.05], "sent": 0.04, "latency": 351, "cached": true, "tokens": 1515, "n_questions": 11}
+{"id": "s003e", "p": [0.04, 0.04, 0.03, 0.04, 0.05, 0.05, 0.05, 0.98, 0.97, 0.05], "sent": 0.91, "latency": 386, "cached": true, "tokens": 1522, "n_questions": 11}
+{"id": "s004c", "p": [0.04, 0.04, 0.03, 0.03, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.03, 0.04, 0.04, 0.04], "sent": 0.05, "latency": 344, "cached": true, "tokens": 2108, "n_questions": 16}
+{"id": "s004e", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04, 0.06, 0.04, 0.07, 0.92, 0.04, 0.05, 0.04, 0.04], "sent": 0.91, "latency": 1584, "cached": true, "tokens": 2110, "n_questions": 16}
+{"id": "s005c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.05, 0.05], "sent": 0.05, "latency": 1182, "cached": true, "tokens": 1390, "n_questions": 10}
+{"id": "s005e", "p": [0.89, 0.74, 0.04, 0.04, 0.04, 0.05, 0.05, 0.05, 0.05], "sent": 0.85, "latency": 343, "cached": true, "tokens": 1392, "n_questions": 10}
+{"id": "s006c", "p": [0.04, 0.04, 0.04, 0.04, 0.06, 0.05, 0.04], "sent": 0.06, "latency": 321, "cached": true, "tokens": 1149, "n_questions": 8}
+{"id": "s006e", "p": [0.04, 0.04, 0.04, 0.04, 0.97, 0.05, 0.04], "sent": 0.61, "latency": 1216, "cached": true, "tokens": 1151, "n_questions": 8}
+{"id": "s007c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.05, 0.04], "sent": 0.04, "latency": 315, "cached": true, "tokens": 1391, "n_questions": 10}
+{"id": "s007e", "p": [0.95, 0.05, 0.04, 0.04, 0.05, 0.05, 0.04, 0.05, 0.04], "sent": 0.8, "latency": 296, "cached": true, "tokens": 1391, "n_questions": 10}
+{"id": "s008c", "p": [0.04, 0.04, 0.04, 0.03, 0.04, 0.07, 0.04], "sent": 0.04, "latency": 365, "cached": true, "tokens": 1145, "n_questions": 8}
+{"id": "s008e", "p": [0.04, 0.04, 0.92, 0.04, 0.04, 0.07, 0.05], "sent": 0.08, "latency": 563, "cached": true, "tokens": 1147, "n_questions": 8}
+{"id": "s009c", "p": [0.04, 0.04, 0.05, 0.04, 0.05, 0.04, 0.04, 0.05, 0.05, 0.06, 0.05], "sent": 0.06, "latency": 526, "cached": true, "tokens": 1625, "n_questions": 12}
+{"id": "s009e", "p": [0.05, 0.04, 0.05, 0.04, 0.05, 0.07, 0.81, 0.04, 0.05, 0.07, 0.05], "sent": 0.73, "latency": 508, "cached": true, "tokens": 1625, "n_questions": 12}
+{"id": "s010c", "p": [0.04, 0.04, 0.05, 0.04, 0.05, 0.04, 0.05, 0.05, 0.05, 0.04, 0.05, 0.05], "sent": 0.14, "latency": 479, "cached": true, "tokens": 1752, "n_questions": 13}
+{"id": "s010e", "p": [0.04, 0.05, 0.04, 0.05, 0.96, 0.04, 0.04, 0.05, 0.06, 0.05, 0.05, 0.05], "sent": 0.97, "latency": 427, "cached": true, "tokens": 1757, "n_questions": 13}
+{"id": "s011c", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.06, 0.07, 0.04, 0.05, 0.08, 0.05], "sent": 0.18, "latency": 542, "cached": true, "tokens": 1623, "n_questions": 12}
+{"id": "s011e", "p": [0.06, 0.05, 0.08, 0.94, 0.1, 0.08, 0.06, 0.05, 0.05, 0.08, 0.05], "sent": 0.94, "latency": 572, "cached": true, "tokens": 1621, "n_questions": 12}
+{"id": "s012c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04], "sent": 0.04, "latency": 590, "cached": true, "tokens": 1270, "n_questions": 9}
+{"id": "s012e", "p": [0.03, 0.04, 0.78, 0.04, 0.05, 0.03, 0.04, 0.04], "sent": 0.79, "latency": 494, "cached": true, "tokens": 1270, "n_questions": 9}
+{"id": "s013c", "p": [0.04, 0.05, 0.04, 0.04, 0.05, 0.04, 0.04, 0.04, 0.05, 0.05, 0.05, 0.05, 0.04], "sent": 0.06, "latency": 674, "cached": true, "tokens": 1865, "n_questions": 14}
+{"id": "s013e", "p": [0.04, 0.04, 0.04, 0.03, 0.05, 0.04, 0.04, 0.04, 0.06, 0.96, 0.04, 0.04, 0.05], "sent": 0.96, "latency": 558, "cached": true, "tokens": 1870, "n_questions": 14}
+{"id": "s014c", "p": [0.04, 0.04, 0.03, 0.04, 0.04, 0.05, 0.04, 0.04], "sent": 0.05, "latency": 581, "cached": true, "tokens": 1269, "n_questions": 9}
+{"id": "s014e", "p": [0.04, 0.04, 0.03, 0.04, 0.04, 0.96, 0.04, 0.04], "sent": 0.96, "latency": 554, "cached": true, "tokens": 1274, "n_questions": 9}
+{"id": "s015c", "p": [0.04, 0.03, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04], "sent": 0.05, "latency": 503, "cached": true, "tokens": 1273, "n_questions": 9}
+{"id": "s015e", "p": [0.05, 0.94, 0.06, 0.04, 0.04, 0.05, 0.06, 0.04], "sent": 0.94, "latency": 492, "cached": true, "tokens": 1272, "n_questions": 9}
+{"id": "s016c", "p": [0.03, 0.04, 0.04, 0.04, 0.04, 0.03, 0.03, 0.04, 0.08], "sent": 0.05, "latency": 451, "cached": true, "tokens": 1375, "n_questions": 10}
+{"id": "s016e", "p": [0.04, 0.04, 0.04, 0.06, 0.14, 0.93, 0.18, 0.05, 0.06], "sent": 0.93, "latency": 488, "cached": true, "tokens": 1372, "n_questions": 10}
+{"id": "s017c", "p": [0.04, 0.05, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04], "sent": 0.05, "latency": 331, "cached": true, "tokens": 1291, "n_questions": 9}
+{"id": "s017e", "p": [0.04, 0.05, 0.04, 0.04, 0.04, 0.95, 0.04, 0.04], "sent": 0.96, "latency": 371, "cached": true, "tokens": 1296, "n_questions": 9}
+{"id": "s018c", "p": [0.03, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04, 0.15, 0.04], "sent": 0.05, "latency": 518, "cached": true, "tokens": 1379, "n_questions": 10}
+{"id": "s018e", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.98, 0.06, 0.05], "sent": 0.94, "latency": 507, "cached": true, "tokens": 1380, "n_questions": 10}
+{"id": "s019c", "p": [0.04, 0.04, 0.04, 0.03, 0.03, 0.04, 0.04, 0.05, 0.1, 0.04], "sent": 0.04, "latency": 299, "cached": true, "tokens": 1506, "n_questions": 11}
+{"id": "s019e", "p": [0.98, 0.04, 0.04, 0.03, 0.04, 0.04, 0.98, 0.05, 0.08, 0.04], "sent": 0.94, "latency": 275, "cached": true, "tokens": 1510, "n_questions": 11}
+{"id": "s020c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05], "sent": 0.09, "latency": 413, "cached": true, "tokens": 1387, "n_questions": 10}
+{"id": "s020e", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.06, 0.06, 0.94, 0.73], "sent": 0.96, "latency": 331, "cached": true, "tokens": 1386, "n_questions": 10}
+{"id": "s021c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04], "sent": 0.06, "latency": 379, "cached": true, "tokens": 1505, "n_questions": 11}
+{"id": "s021e", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.86, 0.12, 0.04, 0.05, 0.04], "sent": 0.71, "latency": 405, "cached": true, "tokens": 1506, "n_questions": 11}
+{"id": "s022c", "p": [0.03, 0.04, 0.04, 0.03, 0.04, 0.04, 0.04, 0.03, 0.04], "sent": 0.05, "latency": 480, "cached": true, "tokens": 1388, "n_questions": 10}
+{"id": "s022e", "p": [0.04, 0.04, 0.97, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.85, "latency": 399, "cached": true, "tokens": 1389, "n_questions": 10}
+{"id": "s023c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.07, "latency": 374, "cached": true, "tokens": 1274, "n_questions": 9}
+{"id": "s023e", "p": [0.97, 0.05, 0.04, 0.05, 0.05, 0.05, 0.05, 0.97], "sent": 0.98, "latency": 353, "cached": true, "tokens": 1277, "n_questions": 9}
+{"id": "s024c", "p": [0.04, 0.04, 0.03, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.06, 0.04], "sent": 0.07, "latency": 313, "cached": true, "tokens": 1626, "n_questions": 12}
+{"id": "s024e", "p": [0.97, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04, 0.05, 0.04], "sent": 0.55, "latency": 416, "cached": true, "tokens": 1632, "n_questions": 12}
+{"id": "s025c", "p": [0.04, 0.03, 0.04, 0.04, 0.05, 0.04, 0.04, 0.04, 0.05, 0.05, 0.05], "sent": 0.05, "latency": 421, "cached": true, "tokens": 1622, "n_questions": 12}
+{"id": "s025e", "p": [0.04, 0.05, 0.98, 0.04, 0.04, 0.05, 0.04, 0.04, 0.04, 0.06, 0.05], "sent": 0.92, "latency": 402, "cached": true, "tokens": 1624, "n_questions": 12}
+{"id": "s026c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04], "sent": 0.05, "latency": 444, "cached": true, "tokens": 1149, "n_questions": 8}
+{"id": "s026e", "p": [0.04, 0.04, 0.04, 0.08, 0.04, 0.05, 0.05], "sent": 0.05, "latency": 361, "cached": true, "tokens": 1154, "n_questions": 8}
+{"id": "s027c", "p": [0.04, 0.04, 0.04, 0.05, 0.05, 0.04, 0.04, 0.04, 0.05], "sent": 0.06, "latency": 315, "cached": true, "tokens": 1388, "n_questions": 10}
+{"id": "s027e", "p": [0.04, 0.04, 0.04, 0.04, 0.98, 0.05, 0.04, 0.04, 0.04], "sent": 0.87, "latency": 384, "cached": true, "tokens": 1394, "n_questions": 10}
+{"id": "s028c", "p": [0.04, 0.04, 0.03, 0.04, 0.05, 0.04, 0.06, 0.05, 0.04], "sent": 0.08, "latency": 782, "cached": true, "tokens": 1389, "n_questions": 10}
+{"id": "s028e", "p": [0.05, 0.04, 0.04, 0.04, 0.05, 0.05, 0.07, 0.06, 0.97], "sent": 0.3, "latency": 379, "cached": true, "tokens": 1393, "n_questions": 10}
+{"id": "s029c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.06, "latency": 388, "cached": true, "tokens": 1514, "n_questions": 11}
+{"id": "s029e", "p": [0.04, 0.05, 0.04, 0.04, 0.05, 0.04, 0.98, 0.06, 0.04, 0.04], "sent": 0.65, "latency": 371, "cached": true, "tokens": 1520, "n_questions": 11}
+{"id": "s030c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04], "sent": 0.05, "latency": 717, "cached": true, "tokens": 1264, "n_questions": 9}
+{"id": "s030e", "p": [0.96, 0.3, 0.04, 0.05, 0.04, 0.06, 0.06, 0.04], "sent": 0.95, "latency": 498, "cached": true, "tokens": 1264, "n_questions": 9}
+{"id": "s031c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.05, "latency": 520, "cached": true, "tokens": 1154, "n_questions": 8}
+{"id": "s031e", "p": [0.93, 0.09, 0.05, 0.08, 0.97, 0.04, 0.04], "sent": 0.96, "latency": 320, "cached": true, "tokens": 1155, "n_questions": 8}
+{"id": "s032c", "p": [0.04, 0.04, 0.04, 0.04, 0.03, 0.04, 0.05, 0.04, 0.04], "sent": 0.05, "latency": 358, "cached": true, "tokens": 1393, "n_questions": 10}
+{"id": "s032e", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.97, 0.04], "sent": 0.95, "latency": 319, "cached": true, "tokens": 1398, "n_questions": 10}
+{"id": "s033c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.07, "latency": 284, "cached": true, "tokens": 1504, "n_questions": 11}
+{"id": "s033e", "p": [0.04, 0.05, 0.05, 0.04, 0.05, 0.07, 0.04, 0.91, 0.97, 0.05], "sent": 0.92, "latency": 380, "cached": true, "tokens": 1506, "n_questions": 11}
+{"id": "s034c", "p": [0.04, 0.04, 0.04, 0.05, 0.05, 0.05, 0.04, 0.04, 0.05, 0.05], "sent": 0.08, "latency": 364, "cached": true, "tokens": 1514, "n_questions": 11}
+{"id": "s034e", "p": [0.05, 0.04, 0.04, 0.04, 0.05, 0.05, 0.97, 0.04, 0.04, 0.89], "sent": 0.85, "latency": 445, "cached": true, "tokens": 1520, "n_questions": 11}
+{"id": "s035c", "p": [0.04, 0.04, 0.04, 0.06, 0.05, 0.05, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05], "sent": 0.22, "latency": 372, "cached": true, "tokens": 1753, "n_questions": 13}
+{"id": "s035e", "p": [0.04, 0.04, 0.96, 0.18, 0.04, 0.05, 0.04, 0.04, 0.05, 0.05, 0.04, 0.04], "sent": 0.83, "latency": 596, "cached": true, "tokens": 1754, "n_questions": 13}
+{"id": "s036c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.05, 0.06, 0.04], "sent": 0.13, "latency": 584, "cached": true, "tokens": 1510, "n_questions": 11}
+{"id": "s036e", "p": [0.05, 0.05, 0.04, 0.05, 0.05, 0.06, 0.07, 0.09, 0.67, 0.07], "sent": 0.53, "latency": 634, "cached": true, "tokens": 1510, "n_questions": 11}
+{"id": "s037c", "p": [0.04, 0.04, 0.04, 0.03, 0.05, 0.05, 0.05], "sent": 0.07, "latency": 510, "cached": true, "tokens": 1142, "n_questions": 8}
+{"id": "s037e", "p": [0.04, 0.04, 0.03, 0.97, 0.04, 0.05, 0.97], "sent": 0.87, "latency": 373, "cached": true, "tokens": 1151, "n_questions": 8}
+{"id": "s038c", "p": [0.04, 0.04, 0.06, 0.04, 0.04, 0.04, 0.05, 0.04, 0.08, 0.05], "sent": 0.14, "latency": 478, "cached": true, "tokens": 1514, "n_questions": 11}
+{"id": "s038e", "p": [0.04, 0.04, 0.7, 0.04, 0.05, 0.04, 0.04, 0.96, 0.11, 0.05], "sent": 0.95, "latency": 480, "cached": true, "tokens": 1515, "n_questions": 11}
+{"id": "s039c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.03, 0.04, 0.04, 0.05], "sent": 0.06, "latency": 412, "cached": true, "tokens": 1508, "n_questions": 11}
+{"id": "s039e", "p": [0.04, 0.05, 0.05, 0.05, 0.04, 0.05, 0.06, 0.08, 0.95, 0.92], "sent": 0.96, "latency": 572, "cached": true, "tokens": 1512, "n_questions": 11}
+{"id": "s040c", "p": [0.04, 0.04, 0.03, 0.05, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.06, "latency": 546, "cached": true, "tokens": 1514, "n_questions": 11}
+{"id": "s040e", "p": [0.04, 0.04, 0.98, 0.04, 0.06, 0.98, 0.11, 0.04, 0.05, 0.04], "sent": 0.98, "latency": 454, "cached": true, "tokens": 1520, "n_questions": 11}
+{"id": "s041c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.06, "latency": 496, "cached": true, "tokens": 1398, "n_questions": 10}
+{"id": "s041e", "p": [0.04, 0.04, 0.03, 0.05, 0.98, 0.04, 0.05, 0.04, 0.04], "sent": 0.93, "latency": 439, "cached": true, "tokens": 1403, "n_questions": 10}
+{"id": "s042c", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.05, 0.05, 0.04, 0.04], "sent": 0.07, "latency": 341, "cached": true, "tokens": 1394, "n_questions": 10}
+{"id": "s042e", "p": [0.04, 0.04, 0.04, 0.04, 0.95, 0.1, 0.04, 0.04, 0.04], "sent": 0.89, "latency": 306, "cached": true, "tokens": 1398, "n_questions": 10}
+{"id": "s043c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04, 0.07, 0.05], "sent": 0.07, "latency": 333, "cached": true, "tokens": 1508, "n_questions": 11}
+{"id": "s043e", "p": [0.04, 0.04, 0.2, 0.04, 0.05, 0.05, 0.04, 0.04, 0.06, 0.05], "sent": 0.12, "latency": 356, "cached": true, "tokens": 1504, "n_questions": 11}
+{"id": "s044c", "p": [0.04, 0.04, 0.03, 0.04, 0.05, 0.04, 0.04, 0.04], "sent": 0.06, "latency": 374, "cached": true, "tokens": 1268, "n_questions": 9}
+{"id": "s044e", "p": [0.05, 0.04, 0.18, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.36, "latency": 512, "cached": true, "tokens": 1264, "n_questions": 9}
+{"id": "s045c", "p": [0.04, 0.03, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.05, "latency": 342, "cached": true, "tokens": 1507, "n_questions": 11}
+{"id": "s045e", "p": [0.04, 0.05, 0.04, 0.98, 0.04, 0.04, 0.05, 0.04, 0.04, 0.04], "sent": 0.93, "latency": 285, "cached": true, "tokens": 1511, "n_questions": 11}
+{"id": "s046c", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.06, 0.04, 0.04], "sent": 0.06, "latency": 308, "cached": true, "tokens": 1400, "n_questions": 10}
+{"id": "s046e", "p": [0.04, 0.04, 0.97, 0.03, 0.04, 0.04, 0.06, 0.04, 0.04], "sent": 0.06, "latency": 304, "cached": true, "tokens": 1405, "n_questions": 10}
+{"id": "s047c", "p": [0.05, 0.04, 0.04, 0.04, 0.05, 0.05, 0.05, 0.04, 0.04], "sent": 0.1, "latency": 287, "cached": true, "tokens": 1397, "n_questions": 10}
+{"id": "s047e", "p": [0.05, 0.05, 0.97, 0.05, 0.05, 0.05, 0.96, 0.05, 0.04], "sent": 0.78, "latency": 302, "cached": true, "tokens": 1406, "n_questions": 10}
+{"id": "s048c", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.05, 0.05, 0.05], "sent": 0.05, "latency": 375, "cached": true, "tokens": 1390, "n_questions": 10}
+{"id": "s048e", "p": [0.04, 0.05, 0.76, 0.06, 0.07, 0.04, 0.05, 0.04, 0.04], "sent": 0.64, "latency": 378, "cached": true, "tokens": 1390, "n_questions": 10}
+{"id": "s049c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.04, "latency": 310, "cached": true, "tokens": 1264, "n_questions": 9}
+{"id": "s049e", "p": [0.04, 0.04, 0.98, 0.04, 0.04, 0.04, 0.04, 0.03], "sent": 0.88, "latency": 286, "cached": true, "tokens": 1271, "n_questions": 9}
+{"id": "s050c", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04, 0.05], "sent": 0.04, "latency": 332, "cached": true, "tokens": 1266, "n_questions": 9}
+{"id": "s050e", "p": [0.97, 0.05, 0.03, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.92, "latency": 341, "cached": true, "tokens": 1266, "n_questions": 9}
+{"id": "s051c", "p": [0.04, 0.04, 0.04, 0.05, 0.05, 0.05, 0.04, 0.04, 0.1, 0.04, 0.06, 0.04], "sent": 0.07, "latency": 373, "cached": true, "tokens": 1749, "n_questions": 13}
+{"id": "s051e", "p": [0.04, 0.05, 0.04, 0.05, 0.07, 0.04, 0.03, 0.04, 0.1, 0.04, 0.07, 0.95], "sent": 0.95, "latency": 370, "cached": true, "tokens": 1749, "n_questions": 13}
+{"id": "s052c", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.05, 0.04, 0.06, 0.04], "sent": 0.06, "latency": 874, "cached": true, "tokens": 1499, "n_questions": 11}
+{"id": "s052e", "p": [0.04, 0.05, 0.04, 0.05, 0.05, 0.96, 0.05, 0.05, 0.06, 0.05], "sent": 0.95, "latency": 1086, "cached": true, "tokens": 1503, "n_questions": 11}
+{"id": "s053c", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.05, 0.05, 0.04, 0.05, 0.06, 0.05], "sent": 0.05, "latency": 1658, "cached": true, "tokens": 1627, "n_questions": 12}
+{"id": "s053e", "p": [0.04, 0.05, 0.97, 0.04, 0.05, 0.05, 0.05, 0.04, 0.05, 0.06, 0.04], "sent": 0.93, "latency": 1794, "cached": true, "tokens": 1628, "n_questions": 12}
+{"id": "s054c", "p": [0.04, 0.04, 0.04, 0.04, 0.03, 0.04, 0.05, 0.05, 0.04], "sent": 0.09, "latency": 4506, "cached": true, "tokens": 1384, "n_questions": 10}
+{"id": "s054e", "p": [0.04, 0.04, 0.05, 0.04, 0.04, 0.04, 0.05, 0.07, 0.83], "sent": 0.84, "latency": 17050, "cached": true, "tokens": 1384, "n_questions": 10}
+{"id": "s055c", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04, 0.04, 0.05, 0.05], "sent": 0.09, "latency": 13306, "cached": true, "tokens": 1506, "n_questions": 11}
+{"id": "s055e", "p": [0.93, 0.21, 0.07, 0.04, 0.06, 0.68, 0.05, 0.04, 0.04, 0.04], "sent": 0.94, "latency": 14265, "cached": true, "tokens": 1506, "n_questions": 11}
+{"id": "s056c", "p": [0.04, 0.04, 0.03, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.06], "sent": 0.18, "latency": 10173, "cached": true, "tokens": 1517, "n_questions": 11}
+{"id": "s056e", "p": [0.04, 0.04, 0.04, 0.05, 0.05, 0.07, 0.95, 0.05, 0.04, 0.06], "sent": 0.94, "latency": 880, "cached": true, "tokens": 1516, "n_questions": 11}
+{"id": "s057c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.06, "latency": 2518, "cached": true, "tokens": 1028, "n_questions": 7}
+{"id": "s057e", "p": [0.92, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.44, "latency": 2247, "cached": true, "tokens": 1028, "n_questions": 7}
+{"id": "s058c", "p": [0.04, 0.03, 0.03, 0.04, 0.05, 0.05, 0.04, 0.04, 0.07, 0.05], "sent": 0.06, "latency": 2049, "cached": true, "tokens": 1502, "n_questions": 11}
+{"id": "s058e", "p": [0.97, 0.05, 0.04, 0.05, 0.05, 0.05, 0.04, 0.04, 0.06, 0.97], "sent": 0.9, "latency": 503, "cached": true, "tokens": 1508, "n_questions": 11}
+{"id": "s059c", "p": [0.04, 0.04, 0.03, 0.04, 0.04, 0.04, 0.04], "sent": 0.05, "latency": 639, "cached": true, "tokens": 1150, "n_questions": 8}
+{"id": "s059e", "p": [0.04, 0.04, 0.04, 0.97, 0.04, 0.05, 0.04], "sent": 0.34, "latency": 675, "cached": true, "tokens": 1154, "n_questions": 8}
+{"id": "s060c", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04, 0.04], "sent": 0.07, "latency": 619, "cached": true, "tokens": 1280, "n_questions": 9}
+{"id": "s060e", "p": [0.04, 0.04, 0.91, 0.04, 0.05, 0.95, 0.04, 0.04], "sent": 0.93, "latency": 519, "cached": true, "tokens": 1285, "n_questions": 9}
+{"id": "s061c", "p": [0.04, 0.04, 0.04, 0.07, 0.04, 0.06, 0.04, 0.06, 0.04], "sent": 0.14, "latency": 640, "cached": true, "tokens": 1393, "n_questions": 10}
+{"id": "s061e", "p": [0.03, 0.04, 0.04, 0.08, 0.04, 0.05, 0.04, 0.06, 0.97], "sent": 0.35, "latency": 686, "cached": true, "tokens": 1399, "n_questions": 10}
+{"id": "s062c", "p": [0.04, 0.03, 0.04, 0.04, 0.05, 0.04, 0.04], "sent": 0.06, "latency": 713, "cached": true, "tokens": 1146, "n_questions": 8}
+{"id": "s062e", "p": [0.03, 0.04, 0.04, 0.98, 0.05, 0.05, 0.04], "sent": 0.93, "latency": 646, "cached": true, "tokens": 1150, "n_questions": 8}
+{"id": "s063c", "p": [0.04, 0.04, 0.04, 0.05, 0.06, 0.06, 0.04, 0.04, 0.04, 0.06, 0.04], "sent": 0.06, "latency": 747, "cached": true, "tokens": 1630, "n_questions": 12}
+{"id": "s063e", "p": [0.04, 0.05, 0.94, 0.05, 0.05, 0.05, 0.05, 0.06, 0.98, 0.1, 0.05], "sent": 0.96, "latency": 869, "cached": true, "tokens": 1631, "n_questions": 12}
+{"id": "s064c", "p": [0.04, 0.05, 0.03, 0.05, 0.04, 0.04, 0.04, 0.04], "sent": 0.08, "latency": 867, "cached": true, "tokens": 1268, "n_questions": 9}
+{"id": "s064e", "p": [0.04, 0.06, 0.04, 0.05, 0.96, 0.04, 0.04, 0.04], "sent": 0.1, "latency": 973, "cached": true, "tokens": 1271, "n_questions": 9}
+{"id": "s065c", "p": [0.03, 0.04, 0.03, 0.04, 0.04, 0.04, 0.05], "sent": 0.06, "latency": 1348, "cached": true, "tokens": 1138, "n_questions": 8}
+{"id": "s065e", "p": [0.06, 0.05, 0.92, 0.04, 0.05, 0.06, 0.04], "sent": 0.91, "latency": 1486, "cached": true, "tokens": 1140, "n_questions": 8}
+{"id": "s066c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.08, 0.04, 0.04], "sent": 0.05, "latency": 1510, "cached": true, "tokens": 1263, "n_questions": 9}
+{"id": "s066e", "p": [0.97, 0.04, 0.04, 0.04, 0.05, 0.06, 0.05, 0.04], "sent": 0.91, "latency": 1302, "cached": true, "tokens": 1269, "n_questions": 9}
+{"id": "s067c", "p": [0.04, 0.04, 0.05, 0.15, 0.07, 0.05, 0.04, 0.04], "sent": 0.23, "latency": 1637, "cached": true, "tokens": 1267, "n_questions": 9}
+{"id": "s067e", "p": [0.04, 0.05, 0.05, 0.13, 0.98, 0.06, 0.04, 0.04], "sent": 0.94, "latency": 1601, "cached": true, "tokens": 1275, "n_questions": 9}
+{"id": "s068c", "p": [0.03, 0.04, 0.04, 0.04, 0.05, 0.05, 0.04, 0.04, 0.05, 0.04], "sent": 0.1, "latency": 1720, "cached": true, "tokens": 1511, "n_questions": 11}
+{"id": "s068e", "p": [0.04, 0.04, 0.97, 0.05, 0.04, 0.04, 0.04, 0.04, 0.08, 0.94], "sent": 0.97, "latency": 1681, "cached": true, "tokens": 1517, "n_questions": 11}
+{"id": "s069c", "p": [0.03, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04, 0.04, 0.04], "sent": 0.06, "latency": 1535, "cached": true, "tokens": 1386, "n_questions": 10}
+{"id": "s069e", "p": [0.04, 0.05, 0.97, 0.04, 0.05, 0.05, 0.05, 0.04, 0.04], "sent": 0.91, "latency": 2340, "cached": true, "tokens": 1384, "n_questions": 10}
+{"id": "s070c", "p": [0.04, 0.04, 0.04, 0.05, 0.04, 0.05, 0.05, 0.04, 0.06, 0.05, 0.04], "sent": 0.05, "latency": 1695, "cached": true, "tokens": 1628, "n_questions": 12}
+{"id": "s070e", "p": [0.04, 0.1, 0.97, 0.06, 0.04, 0.05, 0.18, 0.93, 0.25, 0.07, 0.05], "sent": 0.96, "latency": 1746, "cached": true, "tokens": 1636, "n_questions": 12}
+{"id": "s071c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.05], "sent": 0.06, "latency": 2199, "cached": true, "tokens": 1276, "n_questions": 9}
+{"id": "s071e", "p": [0.04, 0.04, 0.04, 0.96, 0.04, 0.04, 0.04, 0.05], "sent": 0.92, "latency": 2793, "cached": true, "tokens": 1278, "n_questions": 9}
+{"id": "s072c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05], "sent": 0.05, "latency": 2930, "cached": true, "tokens": 1151, "n_questions": 8}
+{"id": "s072e", "p": [0.96, 0.07, 0.04, 0.04, 0.04, 0.05, 0.05], "sent": 0.92, "latency": 3705, "cached": true, "tokens": 1149, "n_questions": 8}
+{"id": "s073c", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.05, 0.06, 0.05, 0.04, 0.08, 0.04], "sent": 0.07, "latency": 4613, "cached": true, "tokens": 1630, "n_questions": 12}
+{"id": "s073e", "p": [0.04, 0.04, 0.04, 0.04, 0.06, 0.97, 0.05, 0.04, 0.03, 0.09, 0.05], "sent": 0.81, "latency": 4608, "cached": true, "tokens": 1632, "n_questions": 12}
+{"id": "s074c", "p": [0.04, 0.04, 0.09, 0.07, 0.05, 0.05, 0.04, 0.05, 0.06, 0.04], "sent": 0.15, "latency": 4773, "cached": true, "tokens": 1505, "n_questions": 11}
+{"id": "s074e", "p": [0.04, 0.05, 0.1, 0.09, 0.78, 0.05, 0.04, 0.04, 0.06, 0.04], "sent": 0.78, "latency": 4583, "cached": true, "tokens": 1507, "n_questions": 11}
+{"id": "s075c", "p": [0.04, 0.04, 0.08, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04], "sent": 0.11, "latency": 3029, "cached": true, "tokens": 1387, "n_questions": 10}
+{"id": "s075e", "p": [0.04, 0.04, 0.08, 0.04, 0.05, 0.04, 0.05, 0.06, 0.96], "sent": 0.3, "latency": 1859, "cached": true, "tokens": 1391, "n_questions": 10}
+{"id": "s076c", "p": [0.04, 0.04, 0.05, 0.03, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.08, "latency": 1579, "cached": true, "tokens": 1389, "n_questions": 10}
+{"id": "s076e", "p": [0.91, 0.32, 0.06, 0.06, 0.09, 0.05, 0.05, 0.97, 0.04], "sent": 0.93, "latency": 704, "cached": true, "tokens": 1387, "n_questions": 10}
+{"id": "s077c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.05], "sent": 0.05, "latency": 1353, "cached": true, "tokens": 1508, "n_questions": 11}
+{"id": "s077e", "p": [0.74, 0.17, 0.05, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04], "sent": 0.44, "latency": 2068, "cached": true, "tokens": 1508, "n_questions": 11}
+{"id": "s078c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04], "sent": 0.08, "latency": 2198, "cached": true, "tokens": 1387, "n_questions": 10}
+{"id": "s078e", "p": [0.04, 0.05, 0.04, 0.05, 0.04, 0.05, 0.98, 0.98, 0.05], "sent": 0.97, "latency": 2507, "cached": true, "tokens": 1395, "n_questions": 10}
+{"id": "s079c", "p": [0.04, 0.03, 0.05, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04], "sent": 0.14, "latency": 3695, "cached": true, "tokens": 1392, "n_questions": 10}
+{"id": "s079e", "p": [0.04, 0.04, 0.05, 0.05, 0.05, 0.08, 0.07, 0.08, 0.89], "sent": 0.9, "latency": 3609, "cached": true, "tokens": 1392, "n_questions": 10}
+{"id": "s080c", "p": [0.04, 0.03, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04, 0.05, 0.06, 0.04], "sent": 0.07, "latency": 3482, "cached": true, "tokens": 1621, "n_questions": 12}
+{"id": "s080e", "p": [0.04, 0.04, 0.04, 0.05, 0.05, 0.06, 0.88, 0.04, 0.06, 0.06, 0.04], "sent": 0.87, "latency": 3070, "cached": true, "tokens": 1621, "n_questions": 12}
+{"id": "s081c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.03, 0.04, 0.04], "sent": 0.05, "latency": 1131, "cached": true, "tokens": 1265, "n_questions": 9}
+{"id": "s081e", "p": [0.96, 0.14, 0.97, 0.04, 0.05, 0.04, 0.05, 0.04], "sent": 0.97, "latency": 418, "cached": true, "tokens": 1271, "n_questions": 9}
+{"id": "s082c", "p": [0.04, 0.04, 0.03, 0.04, 0.05, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04], "sent": 0.07, "latency": 446, "cached": true, "tokens": 1630, "n_questions": 12}
+{"id": "s082e", "p": [0.04, 0.04, 0.04, 0.97, 0.07, 0.97, 0.04, 0.04, 0.05, 0.04, 0.04], "sent": 0.52, "latency": 365, "cached": true, "tokens": 1636, "n_questions": 12}
+{"id": "s083c", "p": [0.04, 0.04, 0.05, 0.05, 0.05, 0.05, 0.05, 0.05, 0.04], "sent": 0.2, "latency": 364, "cached": true, "tokens": 1387, "n_questions": 10}
+{"id": "s083e", "p": [0.96, 0.05, 0.05, 0.06, 0.05, 0.05, 0.06, 0.93, 0.04], "sent": 0.93, "latency": 579, "cached": true, "tokens": 1391, "n_questions": 10}
+{"id": "s084c", "p": [0.03, 0.04, 0.03, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04], "sent": 0.07, "latency": 395, "cached": true, "tokens": 1510, "n_questions": 11}
+{"id": "s084e", "p": [0.04, 0.04, 0.04, 0.05, 0.98, 0.04, 0.04, 0.05, 0.04, 0.04], "sent": 0.46, "latency": 412, "cached": true, "tokens": 1517, "n_questions": 11}
+{"id": "s085c", "p": [0.05, 0.04, 0.04, 0.04, 0.04, 0.04, 0.16, 0.04, 0.06, 0.05], "sent": 0.08, "latency": 392, "cached": true, "tokens": 1503, "n_questions": 11}
+{"id": "s085e", "p": [0.06, 0.04, 0.07, 0.88, 0.04, 0.04, 0.17, 0.04, 0.08, 0.05], "sent": 0.82, "latency": 377, "cached": true, "tokens": 1505, "n_questions": 11}
+{"id": "s086c", "p": [0.05, 0.04, 0.04, 0.04, 0.05, 0.04, 0.04, 0.05, 0.04, 0.04], "sent": 0.1, "latency": 608, "cached": true, "tokens": 1504, "n_questions": 11}
+{"id": "s086e", "p": [0.05, 0.05, 0.05, 0.05, 0.06, 0.04, 0.98, 0.06, 0.05, 0.98], "sent": 0.92, "latency": 698, "cached": true, "tokens": 1510, "n_questions": 11}
+{"id": "s087c", "p": [0.04, 0.05, 0.05, 0.04, 0.05, 0.04, 0.04, 0.04, 0.05], "sent": 0.06, "latency": 524, "cached": true, "tokens": 1391, "n_questions": 10}
+{"id": "s087e", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.05, 0.04, 0.97, 0.97], "sent": 0.92, "latency": 554, "cached": true, "tokens": 1397, "n_questions": 10}
+{"id": "s088c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.06, 0.04, 0.04], "sent": 0.04, "latency": 305, "cached": true, "tokens": 1380, "n_questions": 10}
+{"id": "s088e", "p": [0.09, 0.05, 0.08, 0.17, 0.93, 0.05, 0.1, 0.05, 0.06], "sent": 0.94, "latency": 327, "cached": true, "tokens": 1378, "n_questions": 10}
+{"id": "s089c", "p": [0.04, 0.03, 0.04, 0.04, 0.04, 0.04, 0.08, 0.04, 0.05, 0.04], "sent": 0.05, "latency": 328, "cached": true, "tokens": 1512, "n_questions": 11}
+{"id": "s089e", "p": [0.04, 0.05, 0.04, 0.05, 0.04, 0.05, 0.05, 0.04, 0.07, 0.65], "sent": 0.84, "latency": 539, "cached": true, "tokens": 1514, "n_questions": 11}
+{"id": "s090c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04], "sent": 0.05, "latency": 508, "cached": true, "tokens": 1150, "n_questions": 8}
+{"id": "s090e", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.05, 0.98], "sent": 0.93, "latency": 439, "cached": true, "tokens": 1155, "n_questions": 8}
+{"id": "s091c", "p": [0.03, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.06, 0.05], "sent": 0.07, "latency": 448, "cached": true, "tokens": 1626, "n_questions": 12}
+{"id": "s091e", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.05, 0.89, 0.05, 0.06, 0.05, 0.05], "sent": 0.88, "latency": 332, "cached": true, "tokens": 1626, "n_questions": 12}
+{"id": "s092c", "p": [0.04, 0.04, 0.04, 0.08, 0.05, 0.05, 0.04], "sent": 0.08, "latency": 325, "cached": true, "tokens": 1149, "n_questions": 8}
+{"id": "s092e", "p": [0.96, 0.05, 0.04, 0.08, 0.04, 0.97, 0.05], "sent": 0.62, "latency": 306, "cached": true, "tokens": 1154, "n_questions": 8}
+{"id": "s093c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.05, 0.04], "sent": 0.07, "latency": 318, "cached": true, "tokens": 1262, "n_questions": 9}
+{"id": "s093e", "p": [0.05, 0.05, 0.04, 0.04, 0.05, 0.05, 0.05, 0.97], "sent": 0.91, "latency": 299, "cached": true, "tokens": 1266, "n_questions": 9}
+{"id": "s094c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.06, 0.05, 0.05, 0.06, 0.05], "sent": 0.09, "latency": 472, "cached": true, "tokens": 1756, "n_questions": 13}
+{"id": "s094e", "p": [0.04, 0.04, 0.04, 0.05, 0.04, 0.08, 0.97, 0.07, 0.05, 0.06, 0.09, 0.06], "sent": 0.92, "latency": 427, "cached": true, "tokens": 1758, "n_questions": 13}
+{"id": "s095c", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.04, 0.05, 0.04, 0.04, 0.06, 0.04], "sent": 0.07, "latency": 471, "cached": true, "tokens": 1629, "n_questions": 12}
+{"id": "s095e", "p": [0.04, 0.05, 0.04, 0.97, 0.05, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04], "sent": 0.9, "latency": 345, "cached": true, "tokens": 1633, "n_questions": 12}
+{"id": "s096c", "p": [0.04, 0.03, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.05, "latency": 675, "cached": true, "tokens": 1387, "n_questions": 10}
+{"id": "s096e", "p": [0.04, 0.04, 0.89, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04], "sent": 0.34, "latency": 626, "cached": true, "tokens": 1387, "n_questions": 10}
+{"id": "s097c", "p": [0.04, 0.04, 0.04, 0.04, 0.05, 0.05, 0.04, 0.04, 0.04, 0.1, 0.08, 0.05], "sent": 0.06, "latency": 502, "cached": true, "tokens": 1749, "n_questions": 13}
+{"id": "s097e", "p": [0.04, 0.05, 0.97, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.1, 0.08, 0.04], "sent": 0.94, "latency": 606, "cached": true, "tokens": 1753, "n_questions": 13}
+{"id": "s098c", "p": [0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.04], "sent": 0.06, "latency": 268, "cached": true, "tokens": 1147, "n_questions": 8}
+{"id": "s098e", "p": [0.04, 0.05, 0.05, 0.85, 0.05, 0.05, 0.04], "sent": 0.88, "latency": 613, "cached": true, "tokens": 1148, "n_questions": 8}
+{"id": "s099c", "p": [0.04, 0.04, 0.04, 0.04, 0.06, 0.05, 0.04, 0.04, 0.05], "sent": 0.06, "latency": 620, "cached": true, "tokens": 1398, "n_questions": 10}
+{"id": "s099e", "p": [0.04, 0.05, 0.94, 0.04, 0.06, 0.05, 0.04, 0.05, 0.04], "sent": 0.92, "latency": 887, "cached": true, "tokens": 1395, "n_questions": 10}

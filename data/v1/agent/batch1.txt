@@ -1,0 +1,50 @@
+q5359	Shape the mixture into small balls with wet hands.	[1]Shape [2]the [3]mixture [4]into [5]small [6]balls [7]with [8]wet [9]hands
+q7640	Beat the eggs and sugar until pale and fluffy.	[1]Beat [2]the [3]eggs [4]and [5]sugar [6]until [7]pale [8]and [9]fluffy
+q7507	Toast the pine nuts in a dry pan until fragrant.	[1]Toast [2]the [3]pine [4]nuts [5]in [6]a [7]dry [8]pan [9]until [10]fragrant
+q1797	Mash the avocado with lime juice and salt.	[1]Mash [2]the [3]avocado [4]with [5]lime [6]juice [7]and [8]salt
+q2686	Brng a large pot of salted watter to the boil.	[1]Brng [2]a [3]large [4]pot [5]of [6]salted [7]watter [8]to [9]the [10]boil
+q2903	Wilt the spinach in a covered pen with a little butter.	[1]Wilt [2]the [3]spinach [4]in [5]a [6]covered [7]pen [8]with [9]a [10]little [11]butter
+q3055	Thread the chhicken onto skewers and griill until charred.	[1]Thread [2]the [3]chhicken [4]onto [5]skewers [6]and [7]griill [8]until [9]charred
+q8760	Stir in the coconut milk and bring to a simmer.	[1]Stir [2]in [3]the [4]coconut [5]milk [6]and [7]bring [8]to [9]a [10]simmer
+q5650	Bring the rice to the boil, then cover and reduce the hate.	[1]Bring [2]the [3]rice [4]to [5]the [6]boil [7]then [8]cover [9]and [10]reduce [11]the [12]hate
+q9408	Dust the tart with icnng sugar before serving.	[1]Dust [2]the [3]tart [4]with [5]icnng [6]sugar [7]before [8]serving
+q9111	Deglaze the roasting tin with a splash of stock.	[1]Deglaze [2]the [3]roasting [4]tin [5]with [6]a [7]splash [8]of [9]stock
+q3564	Stir-fry the vegetables for three minutes, tossing constantly.	[1]Stir-fry [2]the [3]vegetables [4]for [5]three [6]minutes [7]tossing [8]constantly
+q9508	Crumble the bacon over the salad.	[1]Crumble [2]the [3]bacon [4]over [5]the [6]salad
+q8776	Remove the pan froom the heat and stir in the parmesan.	[1]Remove [2]the [3]pan [4]froom [5]the [6]heat [7]and [8]stir [9]in [10]the [11]parmesan
+q1543	Add the fresh thyme and a bay leaf to the pot.	[1]Add [2]the [3]fresh [4]thyme [5]and [6]a [7]bay [8]leaf [9]to [10]the [11]pot
+q1681	Sear the steak in a hot pan for two minutes on each side.	[1]Sear [2]the [3]steak [4]in [5]a [6]hot [7]pan [8]for [9]two [10]minutes [11]on [12]each [13]side
+q3532	Serve the dessert with a scoop of vanilla ice cream.	[1]Serve [2]the [3]dessert [4]with [5]a [6]scoop [7]of [8]vanilla [9]ice [10]cream
+q6737	Fold the melted chocolate gently into the whipped cream.	[1]Fold [2]the [3]melted [4]chocolate [5]gently [6]into [7]the [8]whipped [9]cream
+q6212	Garnish with fresh coriander and a wedge of line.	[1]Garnish [2]with [3]fresh [4]coriander [5]and [6]a [7]wedge [8]of [9]line
+q5722	Let the cake coal in the tin before turning it out.	[1]Let [2]the [3]cake [4]coal [5]in [6]the [7]tin [8]before [9]turning [10]it [11]out
+q4601	Peal the potatoes and cut them into small cubes.	[1]Peal [2]the [3]potatoes [4]and [5]cut [6]them [7]into [8]small [9]cubes
+q9960	Halve the pairs and remove the cores with a spoon.	[1]Halve [2]the [3]pairs [4]and [5]remove [6]the [7]cores [8]with [9]a [10]spoon
+q6464	Flake the fish and check for any bones.	[1]Flake [2]the [3]fish [4]and [5]check [6]for [7]any [8]bones
+q1173	Punch down the dough and shape it into a loaf.	[1]Punch [2]down [3]the [4]dough [5]and [6]shape [7]it [8]into [9]a [10]loaf
+q7864	Stir the serial into the warm milk and leaev to soak.	[1]Stir [2]the [3]serial [4]into [5]the [6]warm [7]milk [8]and [9]leaev [10]to [11]soak
+q9839	Bake the bread until it sounds hollow waen tappsd.	[1]Bake [2]the [3]bread [4]until [5]it [6]sounds [7]hollow [8]waen [9]tappsd
+q6037	Store the cookies in an airtight container for up to a week.	[1]Store [2]the [3]cookies [4]in [5]an [6]airtight [7]container [8]for [9]up [10]to [11]a [12]week
+q6680	Brush the top with beaten egg for a gnossy fanish.	[1]Brush [2]the [3]top [4]with [5]beaten [6]egg [7]for [8]a [9]gnossy [10]fanish
+q3499	Sift the flour and salt into a large bowl.	[1]Sift [2]the [3]flour [4]and [5]salt [6]into [7]a [8]large [9]bowl
+q4567	Pound the chilli, garlic and ginger to a paaste.	[1]Pound [2]the [3]chilli [4]garlic [5]and [6]ginger [7]to [8]a [9]paaste
+q1520	Blend the soup until smoolh and season to taste.	[1]Blend [2]the [3]soup [4]until [5]smoolh [6]and [7]season [8]to [9]taste
+q8196	Reserve a cup of the pasta water for the sauce.	[1]Reserve [2]a [3]cup [4]of [5]the [6]pasta [7]water [8]for [9]the [10]sauce
+q3446	Add the chopped tomateos and simmer until thick.	[1]Add [2]the [3]chopped [4]tomateos [5]and [6]simmer [7]until [8]thick
+q8130	Line the turt tin with the pastry and chill for thirty minutes.	[1]Line [2]the [3]turt [4]tin [5]with [6]the [7]pastry [8]and [9]chill [10]for [11]thirty [12]minutes
+q6948	Mix the cabbage with the dressing and leave for an hour.	[1]Mix [2]the [3]cabbage [4]with [5]the [6]dressing [7]and [8]leave [9]for [10]an [11]hour
+q6273	Thaw the meet in the fridge overnight before cooking.	[1]Thaw [2]the [3]meet [4]in [5]the [6]fridge [7]overnight [8]before [9]cooking
+q7122	Crack the eggs into a bowl and whisk with a fork.	[1]Crack [2]the [3]eggs [4]into [5]a [6]bowl [7]and [8]whisk [9]with [10]a [11]fork
+q9611	Finely shop the onion and mince the garlic.	[1]Finely [2]shop [3]the [4]onion [5]and [6]mince [7]the [8]garlic
+q5894	Wath the leeks thoroughly to remove any grti.	[1]Wath [2]the [3]leeks [4]thoroughly [5]to [6]remove [7]any [8]grti
+q3096	Soak the dried beans in cold water overnight.	[1]Soak [2]the [3]dried [4]beans [5]in [6]cold [7]water [8]overnight
+q8489	Steam the mussels with white wine until the shells open.	[1]Steam [2]the [3]mussels [4]with [5]white [6]wine [7]until [8]the [9]shells [10]open
+q4559	Wash the berries and pat them dry.	[1]Wash [2]the [3]berries [4]and [5]pat [6]them [7]dry
+q8756	Rub the lamb wih garlic and rosemary.	[1]Rub [2]the [3]lamb [4]wih [5]garlic [6]and [7]rosemary
+q9966	Gerase the loaf tin and dust it wiith flour.	[1]Gerase [2]the [3]loaf [4]tin [5]and [6]dust [7]it [8]wiith [9]flour
+q1995	Spread the jam evenly over the sponge.	[1]Spread [2]the [3]jam [4]evenly [5]over [6]the [7]sponge
+q2538	Knead the dough on a lightly floured surrace utnil smooth.	[1]Knead [2]the [3]dough [4]on [5]a [6]lightly [7]floured [8]surrace [9]utnil [10]smooth
+q9134	Chop the herbs roughly and scatter them over the dish.	[1]Chop [2]the [3]herbs [4]roughly [5]and [6]scatter [7]them [8]over [9]the [10]dish
+q1852	Poor in the eggs and steer gently until just set.	[1]Poor [2]in [3]the [4]eggs [5]and [6]steer [7]gently [8]until [9]just [10]set
+q2071	Pour the batter into the prepared pan and smooth the top.	[1]Pour [2]the [3]batter [4]into [5]the [6]prepared [7]pan [8]and [9]smooth [10]the [11]top
+q7520	Rast the vegetables until goldsn and tender.	[1]Rast [2]the [3]vegetables [4]until [5]goldsn [6]and [7]tender
